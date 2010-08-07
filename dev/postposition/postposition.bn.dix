@@ -1,0 +1,60 @@
+<dictionary>
+  <pardefs>
+    <pardef n="এর__post">
+      <e>
+        <p>
+          <l />
+          <r><s n="post" /></r>
+        </p>
+      </e>
+    </pardef>
+  </pardefs>
+  <section id="main" type="standard">
+    <e lm="পরে"><i>পরে</i><par n="এর__post"/></e>
+    <e lm="বিরুদ্ধে"><i>বিরুদ্ধে</i><par n="এর__post"/></e>
+    <e lm="আগে"><i>আগে</i><par n="এর__post"/></e>
+    <e lm="পাশে"><i>পাশে</i><par n="এর__post"/></e>
+    <e lm="ব্যতীত"><i>ব্যতীত</i><par n="এর__post"/></e>
+    <e lm="মধ্যে"><i>মধ্যে</i><par n="এর__post"/></e>
+    <e lm="বাদে"><i>বাদে</i><par n="এর__post"/></e>
+    <e lm="এর"><i>এর</i><par n="এর__post"/></e>
+    <e lm="বাইরে"><i>বাইরে</i><par n="এর__post"/></e>
+    <e lm="বাইরে"><i>বাইরে</i><par n="এর__post"/></e>
+    <e lm="বরং"><i>বরং</i><par n="এর__post"/></e>
+    <e lm="অতঃপর"><i>অতঃপর</i><par n="এর__post"/></e>
+    <e lm="চেয়ে"><i>চেয়ে</i><par n="এর__post"/></e>
+    <e lm="প্রতি"><i>প্রতি</i><par n="এর__post"/></e>
+    <e lm="দিকে"><i>দিকে</i><par n="এর__post"/></e>
+    <e lm="দিকে"><i>দিকে</i><par n="এর__post"/></e>
+    <e lm="তলদেশে"><i>তলদেশে</i><par n="এর__post"/></e>
+    <e lm="উপর"><i>উপর</i><par n="এর__post"/></e>
+    <e lm="উচ্চতর অংশ"><i>উচ্চতর<b/>অংশ</i><par n="এর__post"/></e>
+    <e lm="মধ্যে"><i>মধ্যে</i><par n="এর__post"/></e>
+    <e lm="উপরে"><i>উপরে</i><par n="এর__post"/></e>
+    <e lm="ছাড়া"><i>ছাড়া</i><par n="এর__post"/></e>
+    <e lm="অনুযায়ী"><i>অনুযায়ী</i><par n="এর__post"/></e>
+    <e lm="ছাড়াও"><i>ছাড়াও</i><par n="এর__post"/></e>
+    <e lm="জন্যই"><i>জন্যই</i><par n="এর__post"/></e>
+    <e lm="মধ্যেই"><i>মধ্যেই</i><par n="এর__post"/></e>
+    <e lm="সত্ত্বেও"><i>সত্ত্বেও</i><par n="এর__post"/></e>
+    <e lm="মানে"><i>মানে</i><par n="এর__post"/></e>
+    <e lm="দ্বারা"><i>দ্বারা</i><par n="এর__post"/></e>
+    <e lm="ছাড়াই"><i>ছাড়াই</i><par n="এর__post"/></e>
+    <e lm="সঙ্গে"><i>সঙ্গে</i><par n="এর__post"/></e>
+    <e lm="জন্য"><i>জন্য</i><par n="এর__post"/></e>
+    <e lm="মতো"><i>মতো</i><par n="এর__post"/></e>
+    <e lm="অবধি"><i>অবধি</i><par n="এর__post"/></e>
+    <e lm="বনাম"><i>বনাম</i><par n="এর__post"/></e>
+    <e lm="মতোই"><i>মতোই</i><par n="এর__post"/></e>
+    <e lm="তাই"><i>তাই</i><par n="এর__post"/></e>
+    <e lm="বিনা"><i>বিনা</i><par n="এর__post"/></e>
+    <e lm="জন্যও"><i>জন্যও</i><par n="এর__post"/></e>
+    <e lm="সঙ্গেই"><i>সঙ্গেই</i><par n="এর__post"/></e>
+    <e lm="মধ্যেও"><i>মধ্যেও</i><par n="এর__post"/></e>
+    <e lm="বরাবর"><i>বরাবর</i><par n="এর__post"/></e>
+    <e lm="বাবদ"><i>বাবদ</i><par n="এর__post"/></e>
+    <e lm="কর্তৃক"><i>কর্তৃক</i><par n="এর__post"/></e>
+    <e lm="সঙ্গেও"><i>সঙ্গেও</i><par n="এর__post"/></e>
+    <e lm="শুধুই"><i>শুধুই</i><par n="এর__post"/></e>
+  </section>
+</dictionary>
