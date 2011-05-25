@@ -17,8 +17,6 @@
 /apertium-bn-en.en.dix -text
 /autogen.sh -text
 /bn-en.prob -text svneol=unset#unset
-/config -text
-/config.in -text
 /configure.ac -text
 dev/Makefile -text
 dev/Readme.txt -text
