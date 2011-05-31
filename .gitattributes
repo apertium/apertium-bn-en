@@ -87,6 +87,16 @@ dev/extract-tool/apertium2extract.py -text
 dev/extract-tool/create-extract.sh -text
 dev/extract-tool/reformat.py -text
 dev/generate-dix.sh -text
+dev/gsoc2011/bidix/adjective/adj.ambiguous -text
+dev/gsoc2011/bidix/adjective/adj.patch -text
+dev/gsoc2011/bidix/adjective/adj.todo -text
+dev/gsoc2011/bidix/adjective/get-adj-todo.sh -text
+dev/gsoc2011/bidix/adjective/tag-adj.sh -text
+dev/gsoc2011/bidix/noun/get-noun-todo.sh -text
+dev/gsoc2011/bidix/noun/noun.ambiguous -text
+dev/gsoc2011/bidix/noun/noun.patch -text
+dev/gsoc2011/bidix/noun/noun.todo -text
+dev/gsoc2011/bidix/noun/tag-noun.sh -text
 dev/nltk-crblp-corpus/tag-details -text
 dev/nltk-crblp-corpus/tag-mapping -text
 dev/nltk-crblp-corpus/tagged_corpus/bangla-nltk.pos -text
