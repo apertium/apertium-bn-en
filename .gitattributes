@@ -91,8 +91,10 @@ dev/gsoc2011/bidix/adjective/adj.ambiguous -text
 dev/gsoc2011/bidix/adjective/adj.patch -text
 dev/gsoc2011/bidix/adjective/adj.todo -text
 dev/gsoc2011/bidix/adjective/get-adj-todo.sh -text
+dev/gsoc2011/bidix/adjective/not.adj -text svneol=unset#application/octet-stream
 dev/gsoc2011/bidix/adjective/tag-adj.sh -text
 dev/gsoc2011/bidix/noun/get-noun-todo.sh -text
+dev/gsoc2011/bidix/noun/not.noun -text svneol=unset#application/octet-stream
 dev/gsoc2011/bidix/noun/noun.ambiguous -text
 dev/gsoc2011/bidix/noun/noun.patch -text
 dev/gsoc2011/bidix/noun/noun.todo -text
