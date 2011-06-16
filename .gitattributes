@@ -113,6 +113,15 @@ dev/gsoc2011/monodix/freshwords/get-freq-todo.sh -text
 dev/gsoc2011/monodix/freshwords/get-fresh-words.sh -text
 dev/gsoc2011/monodix/freshwords/raw.freq.list -text
 dev/gsoc2011/monodix/freshwords/todo.freq.list -text
+dev/gsoc2011/monodix/noun/create_noun_monodix_entry.py -text
+dev/gsoc2011/monodix/noun/fresh.noun -text
+dev/gsoc2011/monodix/noun/get-noun-pardefs.sh -text
+dev/gsoc2011/monodix/noun/get-noun-root.sh -text
+dev/gsoc2011/monodix/noun/noun.bn.dix -text
+dev/gsoc2011/monodix/noun/noun.bn.patch -text
+dev/gsoc2011/monodix/noun/noun.inflections -text
+dev/gsoc2011/monodix/noun/noun.pardefs -text
+dev/gsoc2011/monodix/noun/tag-noun.sh -text
 dev/nltk-crblp-corpus/tag-details -text
 dev/nltk-crblp-corpus/tag-mapping -text
 dev/nltk-crblp-corpus/tagged_corpus/bangla-nltk.pos -text
