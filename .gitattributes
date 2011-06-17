@@ -122,6 +122,15 @@ dev/gsoc2011/monodix/noun/noun.bn.patch -text
 dev/gsoc2011/monodix/noun/noun.inflections -text
 dev/gsoc2011/monodix/noun/noun.pardefs -text
 dev/gsoc2011/monodix/noun/tag-noun.sh -text
+dev/gsoc2011/monodix/proper-noun/create_proper-noun_monodix_entry.py -text
+dev/gsoc2011/monodix/proper-noun/fresh.proper-noun -text
+dev/gsoc2011/monodix/proper-noun/get-proper-noun-pardefs.sh -text
+dev/gsoc2011/monodix/proper-noun/get-proper-noun-root.sh -text
+dev/gsoc2011/monodix/proper-noun/proper-noun.bn.dix -text
+dev/gsoc2011/monodix/proper-noun/proper-noun.bn.patch -text
+dev/gsoc2011/monodix/proper-noun/proper-noun.inflections -text
+dev/gsoc2011/monodix/proper-noun/proper-noun.pardefs -text
+dev/gsoc2011/monodix/proper-noun/tag-proper-noun.sh -text
 dev/nltk-crblp-corpus/tag-details -text
 dev/nltk-crblp-corpus/tag-mapping -text
 dev/nltk-crblp-corpus/tagged_corpus/bangla-nltk.pos -text
