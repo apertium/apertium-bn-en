@@ -54,6 +54,7 @@ dev/country-list.xml -text
 dev/create-speling-from-paradef.py -text
 dev/database/bdict.db -text
 dev/database/bn.hitparade.txt -text
+dev/database/bn.hitparade.wiki.txt -text
 dev/database/freq.csv -text
 dev/database/generate-meaning-table.php -text
 dev/database/noun.db -text
@@ -111,8 +112,10 @@ dev/gsoc2011/monodix/adjective/tag-adj.sh -text
 dev/gsoc2011/monodix/freshwords/distribute_words.py -text
 dev/gsoc2011/monodix/freshwords/get-freq-todo.sh -text
 dev/gsoc2011/monodix/freshwords/get-fresh-words.sh -text
-dev/gsoc2011/monodix/freshwords/raw.freq.list -text
-dev/gsoc2011/monodix/freshwords/todo.freq.list -text
+dev/gsoc2011/monodix/freshwords/raw.palo -text
+dev/gsoc2011/monodix/freshwords/raw.wiki -text
+dev/gsoc2011/monodix/freshwords/todo.palo -text
+dev/gsoc2011/monodix/freshwords/todo.wiki -text svneol=unset#application/octet-stream
 dev/gsoc2011/monodix/noun/create_noun_monodix_entry.py -text
 dev/gsoc2011/monodix/noun/fresh.noun -text
 dev/gsoc2011/monodix/noun/get-noun-pardefs.sh -text
