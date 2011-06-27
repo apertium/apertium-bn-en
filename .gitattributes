@@ -109,6 +109,15 @@ dev/gsoc2011/monodix/adjective/fresh.adj -text
 dev/gsoc2011/monodix/adjective/get-adj-pardefs.sh -text
 dev/gsoc2011/monodix/adjective/get-adj-root.sh -text
 dev/gsoc2011/monodix/adjective/tag-adj.sh -text
+dev/gsoc2011/monodix/adverb/adv.bn.patch -text
+dev/gsoc2011/monodix/adverb/adv.inflections -text
+dev/gsoc2011/monodix/adverb/adv.pardefs -text
+dev/gsoc2011/monodix/adverb/adverb.bn.dix -text
+dev/gsoc2011/monodix/adverb/create_adv_monodix_entry.py -text
+dev/gsoc2011/monodix/adverb/fresh.adv -text
+dev/gsoc2011/monodix/adverb/get-adv-pardefs.sh -text
+dev/gsoc2011/monodix/adverb/get-adv-root.sh -text
+dev/gsoc2011/monodix/adverb/tag-adv.sh -text
 dev/gsoc2011/monodix/freshwords/distribute_words.py -text
 dev/gsoc2011/monodix/freshwords/get-freq-todo.sh -text
 dev/gsoc2011/monodix/freshwords/get-fresh-words.sh -text
