@@ -18,6 +18,7 @@
 /autogen.sh -text
 /bn-en.prob -text svneol=unset#unset
 /configure.ac -text
+/coverage.sh -text
 dev/Makefile -text
 dev/Readme.txt -text
 dev/adjective/adjective-extra.bn.speling -text
@@ -145,6 +146,7 @@ dev/gsoc2011/monodix/proper-noun/proper-noun.pardefs -text
 dev/gsoc2011/monodix/proper-noun/tag-proper-noun.sh -text
 dev/inconsistency-summary.sh -text
 dev/inconsistency.sh -text
+dev/levenshtein.py -text
 dev/nltk-crblp-corpus/tag-details -text
 dev/nltk-crblp-corpus/tag-mapping -text
 dev/nltk-crblp-corpus/tagged_corpus/bangla-nltk.pos -text
@@ -200,6 +202,7 @@ dev/proper-noun/unknown/insert-unknown-to-db.py -text
 dev/proper-noun/unknown/stage1 -text svneol=unset#application/octet-stream
 dev/proper-noun/unknown/stage2 -text svneol=unset#application/octet-stream
 dev/proper-noun/unknown/stage3 -text svneol=unset#application/octet-stream
+dev/quantitative_analysis.sh -text
 dev/speling-paradigms.py -text
 dev/split-speling.py -text
 dev/testvoc-summary.bn-en.txt -text
@@ -380,6 +383,7 @@ dev/verb/verb.bn.dix -text
 dev/verb/verb.bn.expand -text
 dev/verb/verb.bn.list -text svneol=unset#application/octet-stream
 dev/verb/write-verb-speling-format.php -text
+/dictionary_statistics.sh -text
 /en-bn.prob -text svneol=unset#unset
 eval/create-prothom-alo-corpora.sh -text
 /inconsistency.sh -text
