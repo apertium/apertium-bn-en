@@ -7,10 +7,10 @@ PREFIX2=$(LANG2)-$(LANG1)
 BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON = \
-     $(PREFIX2).automorf.bin $(PREFIX2).autobil.bin $(PREFIX2).autogen.bin  \
-     $(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin  \
-     $(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin \
-     $(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin modes
+	$(PREFIX2).automorf.bin $(PREFIX2).autobil.bin $(PREFIX2).autogen.bin  \
+	$(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin  \
+	$(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin \
+	$(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin
 
 $(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).dix
 #	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
@@ -75,33 +75,38 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
 	   $(BASENAME).$(PREFIX2).t3x $(BASENAME).$(PREFIX1).t3x \
            modes.xml
 
+###############################################################################
+## Translation modes
+###############################################################################
+
+modes/$(PREFIX1).mode: modes.xml
+	apertium-validate-modes modes.xml
+	apertium-gen-modes modes.xml
+	cp *.mode modes/
+
 apertium_bn_endir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
-apertium_bn_modesdir=$(prefix)/share/apertium/modes/
+apertium_modesdir=$(prefix)/share/apertium/modes/
 
-$(PREFIX1).mode: modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
+apertium_bn_en_DATA=$(TARGETS_COMMON) \
+	modes.xml
 
-$(PREFIX2).mode: modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
-
-apertium_bn_en_DATA= \
-	$(PREFIX2).automorf.bin $(PREFIX2).autobil.bin $(PREFIX2).autogen.bin \
-	$(PREFIX1).automorf.bin $(PREFIX1).autobil.bin $(PREFIX1).autogen.bin \
-	$(PREFIX2).prob $(PREFIX1).prob \
-	$(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin \
-	$(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin \
-	$(PREFIX2).mode $(PREFIX1).mode
+# All modes are created by the same goal, listing several will just give problems with make -j2
+noinst_DATA=modes/$(PREFIX1).mode
 
 install-data-local:
-	apertium-gen-modes modes.xml apertium-$(PREFIX1)
-	test -d $(DESTDIR)$(apertium_nn_modesdir) || mkdir $(DESTDIR)$(apertium_nn_modesdir)
-	$(INSTALL_DATA) $(PREFIX1).mode $(DESTDIR)$(apertium_bn_modesdir)
-	$(INSTALL_DATA) $(PREFIX2).mode $(DESTDIR)$(apertium_bn_modesdir)
+	mv modes modes.bak
+	apertium-gen-modes modes.xml $(BASENAME)
+	rm -rf modes
+	mv modes.bak modes
+	test -d $(DESTDIR)$(apertium_modesdir) || mkdir $(DESTDIR)$(apertium_modesdir)
+	modes=`xmllint --xpath '//mode[@install="yes"]/@name' modes.xml | sed 's/ *name="\([^"]*\)"/\1.mode /g'`; \
+		$(INSTALL_DATA) $$modes $(DESTDIR)$(apertium_modesdir); \
+		rm $$modes
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t1x $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_bn_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t2x $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_bn_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t3x $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_bn_endir)
-	cp *.mode modes/
 
-CLEANFILES = -rf $(TARGETS_COMMON) $(TARGETS) modes *.mode
+
+CLEANFILES = $(TARGETS_COMMON)
+clean-local: 
+	-rm -rf .deps modes
