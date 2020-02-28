@@ -7,6 +7,7 @@
 /Makefile
 /Makefile.in
 /aclocal.m4
+/ap_include.am
 /autom4te.cache
 /automa4te.cache
 /config

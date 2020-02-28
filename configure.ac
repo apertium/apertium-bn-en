@@ -1,20 +1,11 @@
-#                                               -*- Autoconf -*-
-# Process this file with autoconf to produce a configure script.
-
-
 AC_PREREQ(2.52)
 
-m4_define([required_apertium_version], [3.2.0])
-m4_define([required_lttoolbox_version], [3.1.2])
-
-AC_INIT([apertium-bn-en], [0.1], [lkhatiwada@users.sourceforge.net])
-AM_INIT_AUTOMAKE([apertium-bn-en], [0.1], no-define)
-AC_PROG_LN_S
+AC_INIT([Apertium Bangla-English], [0.1.0], [apertium-stuff@lists.sourceforge.net], [apertium-bn-en], [http://wiki.apertium.org/wiki/Apertium-bn-en])
+AM_INIT_AUTOMAKE
 AC_PROG_AWK
 
-PKG_CHECK_MODULES(APERTIUM,   apertium >= required_apertium_version, [], [PKG_CHECK_MODULES(APERTIUM,   apertium-3.2 >= required_apertium_version)])
-PKG_CHECK_MODULES(LTTOOLBOX, lttoolbox >= required_lttoolbox_version, [], [PKG_CHECK_MODULES(LTTOOLBOX, lttoolbox-3.2 >= required_lttoolbox_version)])
+PKG_CHECK_MODULES(APERTIUM, apertium >= 3.6.0)
+PKG_CHECK_MODULES(LTTOOLBOX, lttoolbox >= 3.5.0)
 
-
-  
+AP_MKINCLUDE
 AC_OUTPUT([Makefile])

@@ -12,6 +12,9 @@ TARGETS_COMMON = \
 	$(PREFIX2).t1x.bin $(PREFIX2).t2x.bin $(PREFIX2).t3x.bin \
 	$(PREFIX1).t1x.bin $(PREFIX1).t2x.bin $(PREFIX1).t3x.bin
 
+# This include defines goals for install-modes, .deps/.d and .mode files:
+@ap_include@
+
 $(PREFIX1).automorf.bin: $(BASENAME).$(LANG1).dix
 #	apertium-validate-dictionary $(BASENAME).$(LANG1).dix
 	lt-comp lr $(BASENAME).$(LANG1).dix $@
@@ -76,13 +79,8 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
            modes.xml
 
 ###############################################################################
-## Translation modes
+## Installation
 ###############################################################################
-
-modes/$(PREFIX1).mode: modes.xml
-	apertium-validate-modes modes.xml
-	apertium-gen-modes modes.xml
-	cp *.mode modes/
 
 apertium_bn_endir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 apertium_modesdir=$(prefix)/share/apertium/modes/
@@ -93,20 +91,12 @@ apertium_bn_en_DATA=$(TARGETS_COMMON) \
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
 
-install-data-local:
-	mv modes modes.bak
-	apertium-gen-modes modes.xml $(BASENAME)
-	rm -rf modes
-	mv modes.bak modes
-	test -d $(DESTDIR)$(apertium_modesdir) || mkdir $(DESTDIR)$(apertium_modesdir)
-	modes=`xmllint --xpath '//mode[@install="yes"]/@name' modes.xml | sed 's/ *name="\([^"]*\)"/\1.mode /g'`; \
-		$(INSTALL_DATA) $$modes $(DESTDIR)$(apertium_modesdir); \
-		rm $$modes
+install-data-local: install-modes
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t1x $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_bn_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t2x $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_bn_endir)
 	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t3x $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_bn_endir)
 
 
 CLEANFILES = $(TARGETS_COMMON)
-clean-local: 
+clean-local:
 	-rm -rf .deps modes
