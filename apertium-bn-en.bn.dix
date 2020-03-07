@@ -28323,6 +28323,8 @@
     <!-- Interjections -->
 
     <e lm="হ্যালো"><i>হ্যালো</i><par n="interjection" /></e>
+    <e lm="ধন্যবাদ"><i>ধন্যবাদ</i><par n="interjection" /></e>
+    <e lm="অভিনন্দন"><i>অভিনন্দন</i><par n="interjection" /></e>
 
     <!-- Adjectives -->
 

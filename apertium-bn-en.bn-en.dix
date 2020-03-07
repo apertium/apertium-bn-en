@@ -91,10 +91,11 @@
     <sdef n="cm"        c="Comma"/>
   </sdefs>
   <section id="main" type="standard">
-
-    <!-- Conjunctions -->
+	
+   <!-- Conjunctions -->
 
     <e><p><l>এবং<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e><p><l>বা<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
 
     <!-- Pronouns --> 
 
@@ -2194,6 +2195,7 @@
     <e><p><l>ঠিকাদার<s n="n"/><s n="mf"/><s n="hu"/></l><r>contractor<s n="n"/></r></p></e>
     <e><p><l>বকেয়া<s n="n"/><s n="mf"/><s n="nn"/></l><r>due<s n="n"/></r></p></e>
     <e><p><l>অভিনন্দন<s n="n"/><s n="mf"/><s n="nn"/></l><r>congratulation<s n="n"/></r></p></e>
+    <e><p><l>অভিনন্দন<s n="ij"/></l><r>congratulations<s n="ij"/></r></p></e>
     <e><p><l>প্রীতি<s n="n"/><s n="mf"/><s n="nn"/></l><r>pleasure<s n="n"/></r></p></e>
     <e><p><l>মোকাবিলা<s n="n"/><s n="mf"/><s n="nn"/></l><r>confrontation<s n="n"/></r></p></e>
     <e><p><l>রায়<s n="n"/><s n="mf"/><s n="nn"/></l><r>judgement<s n="n"/></r></p></e>
@@ -2334,6 +2336,7 @@
     <e><p><l>প্রদক্ষিণ<s n="n"/><s n="mf"/><s n="nn"/></l><r>revolution<s n="n"/></r></p></e>
     <e><p><l>রান্না<s n="n"/><s n="mf"/><s n="nn"/></l><r>cooking<s n="n"/></r></p></e>
     <e><p><l>ধন্যবাদ<s n="n"/><s n="mf"/><s n="nn"/></l><r>thanks<s n="n"/></r></p></e>
+    <e><p><l>ধন্যবাদ<s n="ij"/></l><r>thanks<s n="ij"/></r></p></e>
     <e><p><l>দখল<s n="n"/><s n="mf"/><s n="nn"/></l><r>possession<s n="n"/></r></p></e>
     <e><p><l>উপলব্ধি<s n="n"/><s n="mf"/><s n="nn"/></l><r>realization<s n="n"/></r></p></e>
     <e><p><l>ঘটা<s n="n"/><s n="mf"/><s n="nn"/></l><r>occurrence<s n="n"/></r></p></e>
