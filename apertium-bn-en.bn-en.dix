@@ -14,7 +14,7 @@
     <sdef n="prn"       c="Pronoun"/>
     <sdef n="subj"      c="Subject"/>
     <sdef n="obj"       c="Object"/>
-    <sdef n="pos"       c=""/>
+    <sdef n="pos"       c="Possessive"/>
     <sdef n="nom"       c="Nominative"/>
     <sdef n="ref"       c="Reflexive"/>
     <sdef n="mf"        c="Male/Female"/>
@@ -76,6 +76,7 @@
     <sdef n="ppst"         c="Past Participle"/>
     <sdef n="pcnd"         c="Conditional Participle"/>
     <sdef n="imp"          c="Imperative"/>
+    <sdef n="ij"           c="Interjection"/>
 
     <sdef n="num"       c="Numeral"/>
     <sdef n="vblex"     c="Verb"/>
@@ -94,12 +95,15 @@
     <!-- Conjunctions -->
 
     <e><p><l>এবং<s n="cnjcoo"/></l><r>and<s n="cnjcoo"/></r></p></e>
+    <e><p><l>বা<s n="cnjcoo"/></l><r>or<s n="cnjcoo"/></r></p></e>
 
     <!-- Pronouns --> 
 
       <!-- We group pronouns by person and number. The subject pronoun is translated 
            by default to the nominative, and the object pronoun to the objective. It might 
            be good to treat reflexive and possessive pronouns similarly in English. -->
+
+    <!--Adding pronouns 2020 -->
 
     <e><p><l>prpers<s n="prn"/><s n="p1"/><s n="aa"/><s n="mf"/><s n="sg"/><s n="nom"/></l><r>prpers<s n="prn"/><s n="subj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
     <e><p><l>prpers<s n="prn"/><s n="p1"/><s n="aa"/><s n="mf"/><s n="sg"/><s n="obj"/></l><r>prpers<s n="prn"/><s n="obj"/><s n="p1"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -164,6 +168,10 @@
     <e><p><l>সকল<s n="prn"/><s n="p3"/><s n="mf"/><s n="pl"/><s n="nom"/></l><r>all<s n="predet"/><s n="sp"/></r></p></e>
 
     <!-- Nouns -->
+
+    <!-- Addings Nouns 2020 -->
+
+
                             <!-- TODO: Add gender on the Bengali side -->
     <e><p><l>মেয়ে<s n="n"/><s n="f"/><s n="hu"/></l><r>daughter<s n="n"/></r></p></e>
     <e><p><l>ক্ষমতা<s n="n"/><s n="nt"/><s n="nn"/></l><r>ability<s n="n"/></r></p></e>
@@ -1015,6 +1023,7 @@
     <e><p><l>ভাগ<s n="n"/><s n="nt"/><s n="nn"/></l><r>split<s n="n"/></r></p></e>
     <e><p><l>পৃষ্ঠপোষকতা<s n="n"/><s n="nt"/><s n="nn"/></l><r>sponsorship<s n="n"/></r></p></e>
     <e><p><l>চামচ<s n="n"/><s n="nt"/><s n="nn"/></l><r>spoon<s n="n"/></r></p></e>
+    <e><p><l>কাঁটাচামচ<s n="n"/><s n="nt"/><s n="nn"/></l><r>fork<s n="n"/></r></p></e>
     <e><p><l>রেণু<s n="n"/><s n="nt"/><s n="nn"/></l><r>spore<s n="n"/></r></p></e>
     <e><p><l>খেলা<s n="n"/><s n="mf"/><s n="nn"/></l><r>sport<s n="n"/></r></p></e>
     <e><p><l>দাগ<s n="n"/><s n="nt"/><s n="nn"/></l><r>spot<s n="n"/></r></p></e>
@@ -1983,6 +1992,7 @@
     <e><p><l>মুক্তি<s n="n"/><s n="mf"/><s n="nn"/></l><r>freedom<s n="n"/></r></p></e>
     <e><p><l>প্রকৃতি<s n="n"/><s n="mf"/><s n="nn"/></l><r>nature<s n="n"/></r></p></e>
     <e><p><l>হ্যালো<s n="n"/><s n="nt"/><s n="nn"/></l><r>hello<s n="n"/></r></p></e>
+    <e><p><l>হ্যালো<s n="ij"/></l><r>hello<s n="ij"/></r></p></e>
     <e><p><l>দমন<s n="n"/><s n="mf"/><s n="nn"/></l><r>taming<s n="n"/></r></p></e>
     <e><p><l>সন্দেহ<s n="n"/><s n="mf"/><s n="nn"/></l><r>doubt<s n="n"/></r></p></e>
     <e><p><l>তারকা<s n="n"/><s n="mf"/><s n="el"/></l><r>star<s n="n"/></r></p></e>
@@ -2192,6 +2202,7 @@
     <e><p><l>ঠিকাদার<s n="n"/><s n="mf"/><s n="hu"/></l><r>contractor<s n="n"/></r></p></e>
     <e><p><l>বকেয়া<s n="n"/><s n="mf"/><s n="nn"/></l><r>due<s n="n"/></r></p></e>
     <e><p><l>অভিনন্দন<s n="n"/><s n="mf"/><s n="nn"/></l><r>congratulation<s n="n"/></r></p></e>
+    <e><p><l>অভিনন্দন<s n="ij"/></l><r>congratulations<s n="ij"/></r></p></e>
     <e><p><l>প্রীতি<s n="n"/><s n="mf"/><s n="nn"/></l><r>pleasure<s n="n"/></r></p></e>
     <e><p><l>মোকাবিলা<s n="n"/><s n="mf"/><s n="nn"/></l><r>confrontation<s n="n"/></r></p></e>
     <e><p><l>রায়<s n="n"/><s n="mf"/><s n="nn"/></l><r>judgement<s n="n"/></r></p></e>
@@ -2332,6 +2343,7 @@
     <e><p><l>প্রদক্ষিণ<s n="n"/><s n="mf"/><s n="nn"/></l><r>revolution<s n="n"/></r></p></e>
     <e><p><l>রান্না<s n="n"/><s n="mf"/><s n="nn"/></l><r>cooking<s n="n"/></r></p></e>
     <e><p><l>ধন্যবাদ<s n="n"/><s n="mf"/><s n="nn"/></l><r>thanks<s n="n"/></r></p></e>
+    <e><p><l>ধন্যবাদ<s n="ij"/></l><r>thanks<s n="ij"/></r></p></e>
     <e><p><l>দখল<s n="n"/><s n="mf"/><s n="nn"/></l><r>possession<s n="n"/></r></p></e>
     <e><p><l>উপলব্ধি<s n="n"/><s n="mf"/><s n="nn"/></l><r>realization<s n="n"/></r></p></e>
     <e><p><l>ঘটা<s n="n"/><s n="mf"/><s n="nn"/></l><r>occurrence<s n="n"/></r></p></e>
@@ -3633,6 +3645,11 @@
     <e><p><l>আততায়ী<s n="n"/><s n="mf"/><s n="hu"/></l><r>assassin<s n="n"/></r></p></e>
 
     <!-- Verbs -->
+
+    <!-- Adding verbs 2020 -->
+
+
+
     <e><p><l>আছ<s n="vblex"/><s n="pres"/></l><r>be<s n="vbser"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
     <e><p><l>আছ<s n="vblex"/><s n="pres"/></l><r>be<s n="vbser"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
     <e><p><l>আছ<s n="vblex"/><s n="pres"/></l><r>be<s n="vbser"/><s n="pres"/></r></p></e>
@@ -4262,12 +4279,15 @@
     <e><p><l>বিরক্ত কর<s n="vblex"/></l><r>disturb<s n="vblex"/></r></p></e>
     <e><p><l>যা<s n="vblex"/></l><r>go<s n="vblex"/></r></p></e>
 
-	<!--do verbs-->
+    <!--do verbs-->
     <e><p><l>কি<s n="det"/><s n="itg"/><s n="sp"/></l><r>do<s n="vbdo"/><s n="pres"/></r></p></e>
     <e r="RL"><p><l>কি<s n="det"/><s n="itg"/><s n="sp"/></l><r>do<s n="vbdo"/><s n="past"/></r></p></e>
     <e r="RL"><p><l>কি<s n="det"/><s n="itg"/><s n="sp"/></l><r>do<s n="vbdo"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
 
-	<!-- Adjective (added later) -->
+    <!-- Adding adjectives 2020 --> 
+
+
+    <!-- Adjective (added later) -->
     <e><p><l>সংগঠিত<s n="adj"/><s n="mf"/></l><r>organized<s n="adj"/></r></p></e>
     <e><p><l>বিভক্ত<s n="adj"/><s n="mf"/></l><r>divided<s n="adj"/></r></p></e>
     <e><p><l>নির্বাচিত<s n="adj"/><s n="mf"/></l><r>elected<s n="adj"/></r></p></e>
@@ -5675,6 +5695,10 @@
     <e><p><l>কেন্দ্রিক<s n="adj"/><s n="mf"/></l><r>centered<s n="adj"/></r></p></e>
 
     <!-- Adverbs -->
+
+    <!-- Adding adverbs 2020 -->
+
+    
     <!-- adverbs added @ Thu Aug 18 12:37:59 UTC 2011 -->
     <e><p><l>অনানুষ্ঠানিক<b/>ভাবে<s n="adv"/></l><r>informally<s n="adv"/></r></p></e>
     <e><p><l>অনুরূপভাবে<s n="adv"/></l><r>likewise<s n="adv"/></r></p></e>

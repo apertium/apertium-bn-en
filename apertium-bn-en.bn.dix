@@ -77,6 +77,7 @@
     <sdef n="ppst"         c="Past Participle"/>
     <sdef n="pcnd"         c="Conditional Participle"/>
     <sdef n="imp"          c="Imperative"/>
+    <sdef n="ij"           c="Interjection"/>
 
 
     <sdef n="sent"         c="End of sentence marker"/>
@@ -126,6 +127,16 @@
       </e>
     </pardef>
 
+    <!-- Interjections -->
+
+    <pardef n="interjection">
+      <e>
+        <p>
+          <l />
+          <r><s n="ij"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <!-- Enclitics -->
 
@@ -1813,10 +1824,10 @@
     </pardef>
     <pardef n="লং__n_mf">
       <e>
-    	  <p>
-	    <l />
-	    <r><s n="n" /><s n="mf" /></r>
-	  </p>
+        <p>
+      <l />
+      <r><s n="n" /><s n="mf" /></r>
+    </p>
       </e>
     </pardef>
     <pardef n="ভাই__n_m">
@@ -28205,24 +28216,24 @@
       </e>
     </pardef>
    <pardef n="কি__det">
-		<e>
-        	<p>
-          		<l/>
-          		<r><s n="det"/><s n="itg"/><s n="sp"/></r>
-        	</p>
-      	</e>
-		<e r="RL">
-        	<p>
-          		<l/>
-          		<r><s n="det"/><s n="itg"/><s n="sg"/></r>
-        	</p>
-      	</e>
-		<e r="RL">
-        	<p>
-          		<l/>
-          		<r><s n="det"/><s n="itg"/><s n="pl"/></r>
-        	</p>
-      	</e>
+    <e>
+          <p>
+              <l/>
+              <r><s n="det"/><s n="itg"/><s n="sp"/></r>
+          </p>
+        </e>
+    <e r="RL">
+          <p>
+              <l/>
+              <r><s n="det"/><s n="itg"/><s n="sg"/></r>
+          </p>
+        </e>
+    <e r="RL">
+          <p>
+              <l/>
+              <r><s n="det"/><s n="itg"/><s n="pl"/></r>
+          </p>
+        </e>
     </pardef>
 
 
@@ -28307,6 +28318,13 @@
 
   </pardefs>
   <section id="main" type="standard">
+
+
+    <!-- Interjections -->
+
+    <e lm="হ্যালো"><i>হ্যালো</i><par n="interjection" /></e>
+    <e lm="ধন্যবাদ"><i>ধন্যবাদ</i><par n="interjection" /></e>
+    <e lm="অভিনন্দন"><i>অভিনন্দন</i><par n="interjection" /></e>
 
     <!-- Adjectives -->
 
@@ -30891,6 +30909,7 @@
     <e lm="মাতা"><i>মাতা</i><par n="রানী__n_f" /></e>
     <e lm="খাবার"><i>খাবার</i><par n="ঝড়__n_nt" /></e>
     <e lm="চামচ"><i>চামচ</i><par n="ঝড়__n_nt" /></e>
+    <e lm="কাঁটাচামচ"><i><কাঁটাচামচ></i><par n="ঝড়__n_nt" /></e>
     <e lm="মহানগর"><i>মহানগর</i><par n="গড়__n_mf" /></e>
     <e lm="হেলিকপ্টার"><i>হেলিকপ্টার</i><par n="ঝড়__n_nt" /></e>
     <e lm="ফেব্রুয়ারি"><i>ফেব্রুয়ারি</i><par n="সি__n_nt" /></e>
