@@ -1171,6 +1171,13 @@
     <e><p><l>শূন্য<s n="n"/><s n="nt"/><s n="nn"/></l><r>zero<s n="n"/></r></p></e>
     <e><p><l>রাশি<s n="n"/><s n="nt"/><s n="nn"/></l><r>zodiac<s n="n"/></r></p></e>
     <e><p><l>অঞ্চল<s n="n"/><s n="nt"/><s n="nn"/></l><r>zone<s n="n"/></r></p></e>
+
+    <!-- Nouns added gsoc 2020 -->
+    <!-- March 2020 -->
+    <e><p><l>থালা<s n="n"/><s n="nt"/><s n="nn"/></l><r>plate<s n="n"/></r></p></e>
+    <e><p><l>ময়দা<s n="n"/><s n="nt"/><s n="nn"/></l><r>flour<s n="n"/></r></p></e>
+    <e><p><l>টিফিন<s n="n"/><s n="nt"/><s n="nn"/></l><r>tiffin<s n="n"/></r></p></e>
+    <e><p><l>পাশা<s n="n"/><s n="nt"/><s n="nn"/></l><r>die<s n="n"/></r></p></e>
     
     <!-- Nouns added later -->
     <e><p><l>রওয়া<s n="n"/><s n="mf"/><s n="nn"/></l><r>staying<s n="n"/></r></p></e>
@@ -2576,7 +2583,7 @@
     <e><p><l>আত্মবিশ্বাস<s n="n"/><s n="nt"/><s n="nn"/></l><r>confidence<s n="n"/></r></p></e>
     <e><p><l>আলু<s n="n"/><s n="nt"/><s n="nn"/></l><r>potato<s n="n"/></r></p></e>
     <e><p><l>মন্ত্রিপরিষদ<s n="n"/><s n="nt"/><s n="nn"/></l><r>cabinet<s n="n"/></r></p></e>
-    <e><p><l>হোম<s n="n"/><s n="nt"/><s n="nn"/></l><r>home<s n="n"/></r></p></e>
+    
     <e><p><l>তাপ<s n="n"/><s n="nt"/><s n="nn"/></l><r>heat<s n="n"/></r></p></e>
     <e><p><l>গন্ধ<s n="n"/><s n="nt"/><s n="nn"/></l><r>smell<s n="n"/></r></p></e>
     <e><p><l>বায়োগ্রাফি<s n="n"/><s n="nt"/><s n="nn"/></l><r>biography<s n="n"/></r></p></e>
@@ -2602,6 +2609,7 @@
     <e><p><l>সাউথ<s n="n"/><s n="nt"/><s n="nn"/></l><r>south<s n="n"/></r></p></e>
     <e><p><l>লোহা<s n="n"/><s n="nt"/><s n="nn"/></l><r>iron<s n="n"/></r></p></e>
     <e><p><l>কলম<s n="n"/><s n="nt"/><s n="nn"/></l><r>pen<s n="n"/></r></p></e>
+    <e><p><l>পেন্সিল<s n="n"/><s n="nt"/><s n="nn"/></l><r>pencil<s n="n"/></r></p></e>
     <e><p><l>মেট্রোপলিটন<s n="n"/><s n="nt"/><s n="nn"/></l><r>metropolitan<s n="n"/></r></p></e>
     <e><p><l>গতকাল<s n="n"/><s n="nt"/><s n="nn"/></l><r>yesterday<s n="n"/></r></p></e>
     <e><p><l>পাইপলাইন<s n="n"/><s n="nt"/><s n="nn"/></l><r>pipeline<s n="n"/></r></p></e>
