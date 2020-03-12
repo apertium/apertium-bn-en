@@ -385,7 +385,7 @@
     <pardef n="currency">
 
                               <e i="">
-        <re>[£$€][0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?</re>
+        <re>[£$€₹][0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?</re>
         <p>
           <l/>
           <r><s n="num"/><s n="mon"/></r>
@@ -393,7 +393,7 @@
       </e>
 
                               <e i="">
-        <re>[£$€][0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?m</re>
+        <re>[£$€₹][0-9]+([. ,][0-9][0-9][0-9])*([.,][0-9]+)?m</re>
         <p>
           <l/>
           <r><s n="num"/><s n="mon"/></r>
@@ -39073,6 +39073,7 @@
 
                         <e lm="cube" i=""><i>cube</i><par n="house__n"/></e>
 
+                        <e lm="cartoon" i=""><i>cartoon</i><par n="house__n"/></e>
 
                         <e lm="cartoonist" i=""><i>cartoonist</i><par n="house__n"/></e>
 
@@ -46196,6 +46197,9 @@
 
 
                         <e lm="mastiff" i=""><i>mastiff</i><par n="house__n"/></e>
+
+
+                        <e lm="tiffin" i=""><i>tiffin</i><par n="house__n"/></e>
 
 
                         <e lm="maraca" i=""><i>maraca</i><par n="house__n"/></e>
