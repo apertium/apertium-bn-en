@@ -1178,6 +1178,25 @@
     <e><p><l>ময়দা<s n="n"/><s n="nt"/><s n="nn"/></l><r>flour<s n="n"/></r></p></e>
     <e><p><l>টিফিন<s n="n"/><s n="nt"/><s n="nn"/></l><r>tiffin<s n="n"/></r></p></e>
     <e><p><l>পাশা<s n="n"/><s n="nt"/><s n="nn"/></l><r>die<s n="n"/></r></p></e>
+   
+    <e><p><l>বাদুড়<s n="n"/><s n="mf"/><s n="aa"/></l><r>bat<s n="n"/></r></p></e>
+    <e><p><l>বিমান<s n="n"/><s n="mf"/><s n="nn"/></l><r>aeroplane<s n="n"/></r></p></e>
+    <e><p><l>বিমানবন্দর<s n="n"/><s n="nt"/><s n="nn"/></l><r>airport<s n="n"/></r></p></e>
+    <e><p><l>অ্যাম্বুলেন্স<s n="n"/><s n="mf"/><s n="nn"/></l><r>ambulance<s n="n"/></r></p></e>
+    <e><p><l>উত্তর<s n="n"/><s n="nt"/><s n="nn"/></l><r>answer<s n="n"/></r></p></e>
+    <e><p><l>বেলুন<s n="n"/><s n="nt"/><s n="nn"/></l><r>balloon<s n="n"/></r></p></e>
+    <e><p><l>নাস্তা<s n="n"/><s n="nt"/><s n="nn"/></l><r>breakfast<s n="n"/></r></p></e>
+    <e><p><l>লাঞ্চ<s n="n"/><s n="nt"/><s n="nn"/></l><r>lunch<s n="n"/></r></p></e>
+    <e><p><l>ডিনার<s n="n"/><s n="nt"/><s n="nn"/></l><r>dinner<s n="n"/></r></p></e>
+    <e><p><l>মোমবাতি<s n="n"/><s n="nt"/><s n="nn"/></l><r>candle<s n="n"/></r></p></e>
+    <e><p><l>কার্পেট<s n="n"/><s n="nt"/><s n="nn"/></l><r>carpet<s n="n"/></r></p></e>
+    <e><p><l>ছুটির<b/>দিন<s n="n"/><s n="nt"/><s n="nn"/></l><r>holiday<s n="n"/></r></p></e>
+    <e><p><l>ছুরি<s n="n"/><s n="nt"/><s n="nn"/></l><r>knife<s n="n"/></r></p></e>
+    <e><p><l>তালা<s n="n"/><s n="nt"/><s n="nn"/></l><r>lock<s n="n"/></r></p></e>
+    <e><p><l>টিকটিকি<s n="n"/><s n="mf"/><s n="aa"/></l><r>lizard<s n="n"/></r></p></e>
+    <e><p><l>টিয়া<b/>পাখি<s n="n"/><s n="mf"/><s n="aa"/></l><r>parrot<s n="n"/></r></p></e>
+    <e><p><l>ভূত<s n="n"/><s n="nt"/><s n="nn"/></l><r>ghost<s n="n"/></r></p></e>
+
     
     <!-- Nouns added later -->
     <e><p><l>রওয়া<s n="n"/><s n="mf"/><s n="nn"/></l><r>staying<s n="n"/></r></p></e>
