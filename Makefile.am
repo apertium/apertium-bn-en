@@ -1,4 +1,3 @@
-VERSION=0.1.0
 LANG1=bn
 LANG2=en
 PREFIX1=$(LANG1)-$(LANG2)
@@ -75,7 +74,7 @@ EXTRA_DIST=$(BASENAME).$(LANG1).dix $(BASENAME).$(PREFIX1).dix \
            $(LANG1)-tagger-data/README $(LANG2)-tagger-data/README \
            $(BASENAME).$(PREFIX2).t1x $(BASENAME).$(PREFIX1).t1x \
            $(BASENAME).$(PREFIX2).t2x $(BASENAME).$(PREFIX1).t2x \
-	   $(BASENAME).$(PREFIX2).t3x $(BASENAME).$(PREFIX1).t3x \
+           $(BASENAME).$(PREFIX2).t3x $(BASENAME).$(PREFIX1).t3x \
            modes.xml
 
 ###############################################################################
@@ -86,16 +85,16 @@ apertium_bn_endir=$(prefix)/share/apertium/apertium-$(PREFIX1)/
 apertium_modesdir=$(prefix)/share/apertium/modes/
 
 apertium_bn_en_DATA=$(TARGETS_COMMON) \
+	$(BASENAME).$(PREFIX2).t1x $(BASENAME).$(PREFIX1).t1x \
+	$(BASENAME).$(PREFIX2).t2x $(BASENAME).$(PREFIX1).t2x \
+	$(BASENAME).$(PREFIX2).t3x $(BASENAME).$(PREFIX1).t3x \
+	$(PREFIX2).prob \
 	modes.xml
 
 # All modes are created by the same goal, listing several will just give problems with make -j2
 noinst_DATA=modes/$(PREFIX1).mode
 
 install-data-local: install-modes
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t1x $(BASENAME).$(PREFIX1).t1x $(DESTDIR)$(apertium_bn_endir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t2x $(BASENAME).$(PREFIX1).t2x $(DESTDIR)$(apertium_bn_endir)
-	$(INSTALL_DATA) $(BASENAME).$(PREFIX2).t3x $(BASENAME).$(PREFIX1).t3x $(DESTDIR)$(apertium_bn_endir)
-
 
 CLEANFILES = $(TARGETS_COMMON)
 clean-local:
