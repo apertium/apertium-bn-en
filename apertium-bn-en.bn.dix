@@ -77,6 +77,7 @@
     <sdef n="ppst"         c="Past Participle"/>
     <sdef n="pcnd"         c="Conditional Participle"/>
     <sdef n="imp"          c="Imperative"/>
+    <sdef n="ij"           c="Interjection"/>
 
 
     <sdef n="sent"         c="End of sentence marker"/>
@@ -126,6 +127,16 @@
       </e>
     </pardef>
 
+    <!-- Interjections -->
+
+    <pardef n="interjection">
+      <e>
+        <p>
+          <l />
+          <r><s n="ij"/></r>
+        </p>
+      </e>
+    </pardef>
 
     <!-- Enclitics -->
 
@@ -228,7 +239,7 @@
     </pardef>
 
 
-    <!-- Nouns -->
+    <!-- Nouns Paradigms -->
 
     <pardef n="বই__n_nt">
       <e>
@@ -1813,10 +1824,10 @@
     </pardef>
     <pardef n="লং__n_mf">
       <e>
-    	  <p>
-	    <l />
-	    <r><s n="n" /><s n="mf" /></r>
-	  </p>
+        <p>
+      <l />
+      <r><s n="n" /><s n="mf" /></r>
+    </p>
       </e>
     </pardef>
     <pardef n="ভাই__n_m">
@@ -28205,24 +28216,24 @@
       </e>
     </pardef>
    <pardef n="কি__det">
-		<e>
-        	<p>
-          		<l/>
-          		<r><s n="det"/><s n="itg"/><s n="sp"/></r>
-        	</p>
-      	</e>
-		<e r="RL">
-        	<p>
-          		<l/>
-          		<r><s n="det"/><s n="itg"/><s n="sg"/></r>
-        	</p>
-      	</e>
-		<e r="RL">
-        	<p>
-          		<l/>
-          		<r><s n="det"/><s n="itg"/><s n="pl"/></r>
-        	</p>
-      	</e>
+    <e>
+          <p>
+              <l/>
+              <r><s n="det"/><s n="itg"/><s n="sp"/></r>
+          </p>
+        </e>
+    <e r="RL">
+          <p>
+              <l/>
+              <r><s n="det"/><s n="itg"/><s n="sg"/></r>
+          </p>
+        </e>
+    <e r="RL">
+          <p>
+              <l/>
+              <r><s n="det"/><s n="itg"/><s n="pl"/></r>
+          </p>
+        </e>
     </pardef>
 
 
@@ -28307,6 +28318,13 @@
 
   </pardefs>
   <section id="main" type="standard">
+
+
+    <!-- Interjections -->
+
+    <e lm="হ্যালো"><i>হ্যালো</i><par n="interjection" /></e>
+    <e lm="ধন্যবাদ"><i>ধন্যবাদ</i><par n="interjection" /></e>
+    <e lm="অভিনন্দন"><i>অভিনন্দন</i><par n="interjection" /></e>
 
     <!-- Adjectives -->
 
@@ -30428,6 +30446,34 @@
 
     <!-- Nouns -->
 
+    <!-- nouns added for Gsoc2020 -->
+    <!-- March 2020 -->
+    <e lm="পেন্সিল"><i>পেন্সিল</i><par n="ঝড়__n_nt" /></e>
+    <e lm="থালা"><i>থালা</i><par n="দশা__n_nt" /></e>
+    <e lm="ময়দা"><i>আটা</i><par n="দশা__n_nt" /></e>
+    <e lm="টিফিন"><i>টিফিন</i><par n="ঝড়__n_nt" /></e>
+    <e lm="ময়দা"><i>পাশা</i><par n="দশা__n_nt" /></e>
+
+    <e lm="বাদুড়"><i>বাদুড়</i><par n="দল__n_mf" /></e>
+    <e lm="বিমান"><i>বিমান</i><par n="গড়__n_mf" /></e>
+    <e lm="বিমানবন্দর"><i>বিমানবন্দর</i><par n="ঝড়__n_nt" /></e>
+    <e lm="অ্যাম্বুলেন্স"><i>অ্যাম্বুলেন্স</i><par n="গড়__n_mf" /></e>
+    <e lm="উত্তর"><i>উত্তর</i><par n="ঝড়__n_nt" /></e>
+    <e lm="নাস্তা"><i>নাস্তা</i><par n="দশা__n_nt" /></e>
+    <e lm="লাঞ্চ"><i>লাঞ্চ</i><par n="ঝড়__n_nt" /></e>
+    <e lm="ডিনার"><i>ডিনার</i><par n="ঝড়__n_nt" /></e>
+    <e lm="মোমবাতি"><i>মোমবাতি</i><par n="সি__n_nt" /></e>
+    <e lm="কার্পেট"><i>কার্পেট</i><par n="ঝড়__n_nt" /></e>
+    <e lm="ছুটির"><i>ছুটির</i><par n="ঝড়__n_nt" /></e>
+    <e lm="ছুরি"><i>ছুরি</i><par n="সি__n_nt" /></e>
+    <e lm="তালা"><i>তালা</i><par n="দশা__n_nt" /></e>
+    <e lm="টিকটিকি"><i>টিকটিকি</i><par n="মে__n_mf" /></e>
+    <e lm="টিয়া পাখি"><i>টিয়া<b/>পাখি</i><par n="গরু__n_mf" /></e>
+    <e lm="ভূত"><i>ভূত</i><par n="ঝড়__n_nt" /></e>
+    
+
+
+
     <e lm="রওয়া"><i>রওয়া</i><par n="ডা__n_mf" /></e>
     <e lm="বিক্রয়"><i>বিক্রয়</i><par n="গড়__n_mf" /></e>
     <e lm="চেঁচানো"><i>চেঁচানো</i><par n="মে__n_mf" /></e>
@@ -30891,6 +30937,7 @@
     <e lm="মাতা"><i>মাতা</i><par n="রানী__n_f" /></e>
     <e lm="খাবার"><i>খাবার</i><par n="ঝড়__n_nt" /></e>
     <e lm="চামচ"><i>চামচ</i><par n="ঝড়__n_nt" /></e>
+    <e lm="কাঁটাচামচ"><i><কাঁটাচামচ></i><par n="ঝড়__n_nt" /></e>
     <e lm="মহানগর"><i>মহানগর</i><par n="গড়__n_mf" /></e>
     <e lm="হেলিকপ্টার"><i>হেলিকপ্টার</i><par n="ঝড়__n_nt" /></e>
     <e lm="ফেব্রুয়ারি"><i>ফেব্রুয়ারি</i><par n="সি__n_nt" /></e>
@@ -30913,6 +30960,7 @@
     <e lm="ভক্ত"><i>ভক্ত</i><par n="জজ__n_mf" /></e>
     <e lm="ছুটি"><i>ছুটি</i><par n="মে__n_mf" /></e>
     <e lm="টেবিল"><i>টেবিল</i><par n="গড়__n_mf" /></e>
+    <e lm="চেয়ার"><i>চেয়ার</i><par n="গড়__n_mf" /></e>s
     <e lm="কেন্দ্র"><i>কেন্দ্র</i><par n="ঝড়__n_nt" /></e>
     <e lm="বোকা"><i>বোকা</i><par n="ওসি__n_mf" /></e>
     <e lm="জানালা"><i>জানালা</i><par n="দশা__n_nt" /></e>
@@ -36665,3 +36713,4 @@
     <e><par n="numerals"/></e>
   </section>
 </dictionary>
+
