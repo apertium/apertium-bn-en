@@ -1,0 +1,10 @@
+{
+    "en-bn-pending": {
+        "input": "en-bn-pending-input.txt",
+        "mode": "en-bn"
+    },
+    "en-bn-regression": {
+        "input": "en-bn-regression-input.txt",
+        "mode": "en-bn"
+    }
+}

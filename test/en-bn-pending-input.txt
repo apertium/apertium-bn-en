@@ -1,0 +1,423 @@
+Man
+Men
+Our house
+My book
+Their house
+Your house
+Your book
+My cat
+My cats
+My daughter
+My daughters
+All people were present
+All the people were present
+All my friends were present
+I see you
+I see him
+I see her
+I see it
+I see us
+I see them
+I see the book.
+I see the house.
+I saw myself
+You saw yourself
+He saw himself
+She saw herself
+We saw ourselves
+They saw themselves
+I can not work.
+I may not work.
+I could not work.
+I might not work.
+I could not have worked.
+I might not have worked.
+I can not have this book.
+I may not have this book.
+You can not work.
+You may not work.
+You could not work.
+You might not work.
+You could not have worked.
+You might not have worked.
+You can not have this book.
+You may not have this book.
+She can not work.
+She may not work.
+She could not work.
+She can not work.
+She might not work.
+She could not have worked.
+She might not have worked.
+She may not have this book.
+I can work.
+I may work.
+I could work.
+I might work.
+I could have worked.
+I might have worked.
+I can have this book.
+I may have this book.
+You can work.
+You may work.
+You could work.
+You might work.
+You could have worked.
+You might have worked.
+You can have this book.
+You may have this book.
+She can work.
+She may work.
+She could work.
+She might work.
+She could have worked.
+She might have worked.
+She may have this book.
+It can be done.
+It may be done.
+It could be done.
+It might be done.
+It could have been done.
+It might have been done.
+I should not work.
+I should not be working.
+I should not have worked.
+I should not have been working.
+You should not work.
+You should not be working.
+You should not have worked.
+You should not have been working.
+She should not work.
+She should not be working.
+She should not have worked.
+She should not have been working.
+This machine should not be working.
+This machine should not have worked.
+This car should not have air-conditioner.
+It should not be done.
+It should not have been done.
+I should work.
+I should be working.
+I should have worked.
+I should have been working.
+You should work.
+You should be working.
+You should have worked.
+You should have been working.
+She should work.
+She should be working.
+She should have worked.
+She should have been working.
+This machine should be working.
+This machine should have worked.
+This car should have air-conditioner.
+It should be done.
+It should have been done.
+I am not told.
+I am not being told.
+I have not been told.
+I have not been being told.
+I was not told.
+I was not being told.
+I had not been told.
+I had not been being told.
+I will not be told.
+I will not be being told.
+I am told.
+I am being told.
+I have been told.
+I have been being told.
+I was told.
+I was being told.
+I had been told.
+I had been being told.
+I will be told.
+I will be being told.
+I am a good student.
+I was a good student.
+I will be a good student.
+I have been a good student.
+I had been a good student.
+I have a book.
+I had a book.
+I will have a book.
+I am having problem in reading this book.
+You are a good student.
+You were a good student.
+You will be a good student.
+You have been a good student.
+You had been a good student.
+You have a book.
+You had a book.
+You will have a book.
+She is a good student.
+She was a good student.
+She will be a good student.
+She has been a good student.
+She had been a good student.
+She has a book.
+She had a book.
+She will have a book.
+I do not work.
+I am not working.
+I have not worked.
+I have not been working.
+I did not work.
+I was not working.
+I had not worked.
+I had not been working.
+I will not work.
+I will not be working.
+I work.
+I am working.
+I have worked.
+I have been working.
+I worked.
+I was working.
+I had worked.
+I had been working.
+I will work.
+I will be working.
+You do not work.
+You are not working.
+You have not worked.
+You have not been working.
+You did not work.
+You were not working.
+You had not worked.
+You had not been working.
+You will not work.
+You will not be working.
+You work.
+You are working.
+You have worked.
+You have been working.
+You worked.
+You were working.
+You had worked.
+You had been working.
+You will work.
+You will be working.
+I do.
+I am doing.
+I have done.
+I have been doing.
+I did.
+I was doing.
+I had done.
+I had been doing.
+I will do.
+I will be doing.
+I do work.
+I do have this book.
+I did have this book.
+She does not work.
+She is not working.
+She has not worked.
+She has not been working.
+She did not work.
+She was not working.
+She had not worked.
+She had not been working.
+She will not work.
+She will not be working.
+She works.
+She is working.
+She has worked.
+She has been working.
+She worked.
+She was working.
+She had worked.
+She had been working.
+She will work.
+She will be working.
+Do I work?
+Am I working?
+Have I worked?
+Have I been working?
+Did I work?
+Was I working?
+Had I worked?
+Had I been working?
+Will I work?
+Will I be working?
+Do you work?
+Are you working?
+Have you worked?
+Have you been working?
+Did you work?
+Were you working?
+Had you worked?
+Had you been working?
+Will you work?
+Will you be working?
+Do I know you?
+Did I tell you?
+Do you know me?
+Did you tell me?
+Does she know me?
+Do you eat this bread?
+Did you eat this bread?
+Does she eat this bread?
+Did she eat this bread?
+How are you?
+How were you?
+How does this machine work?
+How do you know about them?
+How will you control this kingdom?
+How machines are made?
+How do children browse the Internet?
+How long does it take?
+How good are these fruits?
+How many birds were there?
+How much money do you have?
+How far is it?
+How big is this city?
+What is my name?
+What was my name?
+What will be my name?
+What is your name?
+What was your name?
+What will be your name?
+What is her name?
+What was her name?
+What will be her name?
+Where are you today?
+Where does she live?
+Where will you go tomorrow?
+Which book is the best?
+Which food do you like?
+Whom do you want?
+To whom did he tell the story?
+Who are you?
+Who was she?
+Who fixed this car?
+Who wants to drink milk?
+Why are you late today?
+Why is she cooking food?
+Why will she work?
+ Is he going to school now ?  
+ Have you any doubt about it ?  
+ Have you finished your work ?  
+ Was the boy present in the class ?  
+ Can a dead man come back to life ?  
+ Could he work out the sum ?  
+ Could you go to the station last night ?  
+ Will you go to market now ?  
+ Would you give me a piece of paper ?  
+ Do you like to play football ?  
+ Did you write a later to your father ?  
+ Does he play football ?  
+ Who is that man ?  
+ What is that man ?  
+ Whose book is this ?  
+ Whom do you want ?  
+ What is the aim of your life ?  
+ Where was he born ?  
+ Where did you put the book ?  
+ When did you go there ?  
+ Why are you weeping so bitterly ?  
+ Which book does he want ?  
+ Which of the mangoes are sweet ?  
+ Which of the boys is wicked ?  
+ What illness are you suffering from ?  
+ What did the queen request the king ?  
+ How will you go there ?  
+ How many books do you read ?  
+ How much money do you want ?  
+ How far is the news true ?  
+ He plays football in the ground.  
+ He never wastes time in gossiping.  
+ I heartily congratulate you on your success.  
+ Our teacher heartily wished our success in the examination.  
+He is not at home.
+They are not rich.
+I shall not go to school.
+He may not come here tomorrow.
+I have not got a letter.
+They will not do the work in time.
+We are not late today.
+Do not spit here.
+We do not take tea.
+He does not come here.
+I did not bye a orange from market.
+Nobody was present there.
+Nobody can live without food.
+He has never come here.
+They saw nothing in the room.
+ Go to market.  
+ Please lend me your book.  
+ Kindly come here tomorrow.  
+ Please give me a glass of water.  
+ Write a letter to your friend.  
+ let us go out for a walk.  
+ Let them have their dues.  
+ Let him die in peace.  
+ Ler us play on the harmonium.  
+ Let me go to the cinema today.  
+ Let the sarvent come with us.  
+ Let your brother wait for an hour.  
+Give me a story book.
+Seven days make a week.
+A snake crawled into a hole.
+Yesterday I saw a European on the way.
+An idle man is never happy.
+I have seen an ass but not an elephant.
+An honest man is respected everywhere.
+The boy is honest.
+They are rich.
+He is a clever man.
+The man is poor but honest.
+The boy is very strong and healthy.
+My brother is an engineer.
+He is a man of character.
+Father is at home.
+Health is wealth.
+The sun shines all the day.
+Water freezes by cold.
+The flower smells sweet.
+The star comes out in the sky at night.
+My watch keeps right time.
+Food nourishes the body.
+Birds fly, winds blow and flowers bloom.
+It is raining.
+I am taking a cup of tea.
+The boys are playing hockey.
+I am writting a letter to my friend.
+I feel very cold.
+The police have arrested the thief.
+The train has left the station.
+Father has retired from service.
+He has arrived here just now.
+I have not seen him for a week or so.
+I haven't seen him yet.
+Tell me where you have been for so long?
+I have been suffering from fever for a month.
+He has been reading the book for two hours.
+It has been raining all day long.
+You were present.
+The man was poor but honest.
+The girl was five years old.
+I could do the sum.
+He came here yesterday.
+They played a nice game.
+They fought a great fight.
+I chased the thief.
+The girl burst into tears.
+I warned her twice.
+I came, I saw and I conquered.
+We all ran to the playground.
+Thousands of men are killed in the last great war.
+It was raining.
+The workers were working on the road.
+He was watching me.
+The man was walking.
+Boys were playing
+I had gone home before i went to Dhaka.
+We reached the station after the train had arrived.
+I had gone there before he came.
+The refugees got some food after they had fasted about a week.
+You will be glad to meet your friends.
+I shall see him tomorrow.
+I will go there.
+I shall go when he comes.

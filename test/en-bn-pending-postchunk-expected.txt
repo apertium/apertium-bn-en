@@ -1,0 +1,844 @@
+[-7RvT1Ji1SNj#0] ^prpers<prn><p3><infml><aa><mf><pl><nom>$ ^@themselves<prn><ref><p3><mf><pl><obj>$ ^দেখ<vblex><past><smpl><p3><infml>$
+[/-7RvT1Ji1SNj]
+[-CTV1T5eQr0H#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@may<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/-CTV1T5eQr0H]
+[-JGKK2S_Koh6#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^prpers<prn><p2><fam><aa><mf><sg><obj>$ ^দেখ<vblex><pres><smpl><p1>$
+[/-JGKK2S_Koh6]
+[-Q1CXRnM4vuG#0] ^কি<det><itg><sp>$ ^অসুস্থতা<n><nt><nn><sg><nom>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^ভুগ<vblex><TD><PD>$ ^থেকে<post>$ ^?<sent>$
+[/-Q1CXRnM4vuG]
+[-XDtx9PjQ9Sc#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@have<vbhaver><prft>$ ^না<adv>$ ^কাজ কর<vblex><pp>$^.<sent>$
+[/-XDtx9PjQ9Sc]
+[00S-GlIfvszR#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^এই<det><dem>$ ^বই<n><nt><nn><sg><obj>$ ^আছ<vblex><past><smpl><p1>$^.<sent>$
+[/00S-GlIfvszR]
+[0F6TwHTmEdM2#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@will<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/0F6TwHTmEdM2]
+[0oFnEWyYfUWN#0] ^কোথায়<adv>$ ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^বসবাস কর<vblex><pres><smpl><p3><infml>$^?<sent>$
+[/0oFnEWyYfUWN]
+[142sJYo8iiJ7#0] ^prpers<prn><p3><infml><aa><mf><sg><gen>$ ^এক<num><nn>$ ^বই<n><nt><nn><sg><obj>$ ^আছ<vblex><pres><smpl><p3><infml>$^.<sent>$
+[/142sJYo8iiJ7]
+[1FAnvsuvKiVR#0] ^prpers<prn><p3><infml><nn><mf><sg><nom>$ ^@should<vaux><inf>$ ^কর<vblex><inf><PD>$^.<sent>$
+[/1FAnvsuvKiVR]
+[1FiHc5xmgKOi#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কাজ কর<vblex><pres><smpl><p2><fam>$^.<sent>$
+[/1FiHc5xmgKOi]
+[1IkTR8IIzB3W#0] ^সকল<prn><p3><mf><pl><nom>$ ^ব্যক্তি<n><mf><hu><pl><nom>$ ^হাজির<adj><mf>$ ^আছ<vblex><plprft><p3><infml>$
+[/1IkTR8IIzB3W]
+[1PdZAhI6V0fp#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কি<det><itg><sg>$ ^যা<vblex><pres><cnt><p3><infml>$ ^বরাবর<post>$ ^@school<adj>$ ^এখন<adv>$ ^?<sent>$
+[/1PdZAhI6V0fp]
+[1m8VGq6vOIiX#0] ^মানুষ<n><mf><hu><pl><nom>$
+[/1m8VGq6vOIiX]
+[1qOsse5DaJTD#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কাজ কর<vblex><ft><smpl><p1>$^.<sent>$
+[/1qOsse5DaJTD]
+[1suIx7lHgWaE#0] ^মানুষ<n><mf><hu><sg><nom><def>$ ^দরিদ্র<adj><mf>$ ^আছ<vblex><plprft><p3><infml>$ ^@but<cnjcoo>$ ^সৎ<adj><mf>$^.<sent>$
+[/1suIx7lHgWaE]
+[241szAru2qjV#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^হ<vblex><inf>$ ^কর্মরত<adj><mf>$^.<sent>$
+[/241szAru2qjV]
+[2Oi7RXtX4zoe#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@have<vbhaver><prft>$ ^না<adv>$ ^বল<vblex><past><PD>$^.<sent>$
+[/2Oi7RXtX4zoe]
+[2puC5dxG4oIz#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কর<vblex><past><cnt><p1>$^.<sent>$
+[/2puC5dxG4oIz]
+[2q5guq12qN-x#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@can<vaux><past>$ ^না<adv>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/2q5guq12qN-x]
+[30ux-kOvM7UR#0] ^তোমার<det><gen>$ ^বই<n><nt><nn><sg><nom>$
+[/30ux-kOvM7UR]
+[3862Sb5T2IEx#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^এখানে<adv>$ ^উপস্থিত হ<vblex><prft><p3><infml>$ ^@just now<adv>$^.<sent>$
+[/3862Sb5T2IEx]
+[3JiN-bhnCGCb#0] ^রবি<n><nt><nn><sg><nom><def>$ ^কিরণ দে<vblex><pres><smpl><p3><infml>$ ^সকল<prn><p3><mf><pl><nom>$ ^দিন<n><mf><nn><sg><nom><def>$^.<sent>$
+[/3JiN-bhnCGCb]
+[3PUMKuxDrycH#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^শীতল<adj><mf>$ ^খুব<adv>$ ^অনুভব কর<vblex><pres><smpl><p1>$^.<sent>$
+[/3PUMKuxDrycH]
+[3Wct1WTh49O3#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কখনোই<adv>$ ^@waste<vblex><pres><smpl><PD>$ ^সময়<n><mf><nn><sg><nom>$ ^@in<pr>$ ^*gossiping$^.<sent>$
+[/3Wct1WTh49O3]
+[3ssaPDBcTSBJ#0] ^এই<det><dem>$ ^মেশিন<n><mf><nn><sg><nom>$ ^@should<vaux><inf>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/3ssaPDBcTSBJ]
+[3yh9_BQG7Stp#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কেমন<adv>$ ^আছ<vblex><pres><smpl><p2><fam>$^?<sent>$
+[/3yh9_BQG7Stp]
+[3z6RoWKmF0FP#0] ^prpers<prn><p3><infml><aa><mf><pl><nom>$ ^এক<num><nn>$ ^@nice<adj><sint>$ ^গেম<n><nt><nn><sg><obj>$ ^খেল<vblex><past><smpl><p3><infml>$^.<sent>$
+[/3z6RoWKmF0FP]
+[44DK_EinMH5c#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^এক<num><nn>$ ^বই<n><nt><nn><sg><obj>$ ^আছ<vblex><ft><smpl><p2><fam>$^.<sent>$
+[/44DK_EinMH5c]
+[4io5LQEd1bex#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^এক<num><hu>$ ^ভালো<adj><mf>$ ^ছাত্র<n><mf><hu><sg><nom>$ ^হ<vblex><ft><smpl><p1>$^.<sent>$
+[/4io5LQEd1bex]
+[4mJfR1V30zk9#0] ^ছেলে<n><mf><hu><pl><nom>$ ^খেল<vblex><past><cnt><p3><infml>$
+[/4mJfR1V30zk9]
+[4r79ObsM1unJ#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@might<vaux><inf>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/4r79ObsM1unJ]
+[4z140GAC5fT-#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^আছ<vblex><pres><smpl><PD>$ ^না<adv>$ ^কাজ কর<vblex><TD><PD>$^.<sent>$
+[/4z140GAC5fT-]
+[5-_gTCYU-qtU#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^এক<num><hu>$ ^ভালো<adj><mf>$ ^ছাত্র<n><mf><hu><sg><nom>$^.<sent>$
+[/5-_gTCYU-qtU]
+[56UPvh7U-8ji#0] ^বাবা<n><m><hu><sg><nom>$ ^সেবা<n><mf><nn><sg><obj>$ ^থেকে<post>$ ^@retire<vblex><prft><p3><infml>$^.<sent>$
+[/56UPvh7U-8ji]
+[5AdoXeRKyhm9#0] ^prpers<prn><p3><infml><nn><mf><sg><nom>$ ^@can<vaux><past>$ ^কর<vblex><inf><PD>$^.<sent>$
+[/5AdoXeRKyhm9]
+[5K664-fFkZdK#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@have<vbhaver><plprft>$ ^না<adv>$ ^কাজ কর<vblex><past><cnt><PD>$^.<sent>$
+[/5K664-fFkZdK]
+[5SXclZQly3M_#0] ^ট্রেন<n><mf><nn><sg><nom><def>$ ^স্টেশন<n><nt><nn><sg><obj><def>$ ^ছেড়ে চলে যা<vblex><prft><p3><infml>$^.<sent>$
+[/5SXclZQly3M_]
+[5YWaSzBbsugf#0] ^আছ<vblex><past><smpl><PD><vpos>$ ^prpers<prn><p1><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><smpl><p1>$^?<sent>$
+[/5YWaSzBbsugf]
+[5bjeeyPI4vz4#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^বল<vblex><pres><p1>$^.<sent>$
+[/5bjeeyPI4vz4]
+[5m0sR18X1dlm#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কাজ কর<vblex><pres><cnt><p2><fam>$^.<sent>$
+[/5m0sR18X1dlm]
+[5omoK4Qbzuxf#0] ^সকল<prn><p3><mf><pl><nom>$ ^আমার<det><gen>$ ^মিত্র<n><mf><hu><pl><nom>$ ^হাজির<adj><mf>$ ^আছ<vblex><plprft><p3><infml>$
+[/5omoK4Qbzuxf]
+[5y0UCylQJocz#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কাজ কর<vblex><pres><cnt><p3><infml>$^.<sent>$
+[/5y0UCylQJocz]
+[69-ozj55EUel#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^হ<vblex><inf>$ ^কর্মরত<adj><mf>$^.<sent>$
+[/69-ozj55EUel]
+[69SgpwskJX1f#0] ^স্বাস্থ্য<n><mf><nn><sg><nom>$ ^সম্পদ<n><nt><nn><sg><nom>$^.<sent>$
+[/69SgpwskJX1f]
+[6Dx6510UNM9E#0] ^কি<det><itg><sp>$ ^আছ<vblex><pres><smpl><PD>$ ^@that<cnjsub>$ ^মানুষ<n><mf><hu><sg><nom>$ ^?<sent>$
+[/6Dx6510UNM9E]
+[6PFLMXHZjxXb#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^আছ<vblex><plprft><PD>$ ^না<adv>$ ^কাজ কর<vblex><TD><PD>$^.<sent>$
+[/6PFLMXHZjxXb]
+[6QF_W2M1rltE#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@may<vaux><inf>$ ^আছ<vblex><inf>$ ^এই<det><dem>$ ^বই<n><nt><nn><sg><nom>$^.<sent>$
+[/6QF_W2M1rltE]
+[6SnWdtHszDOp#0] ^সকল<prn><p3><mf><pl><nom>$ ^ব্যক্তি<n><mf><hu><pl><nom><>$ ^হাজির<adj><mf>$ ^আছ<vblex><plprft><p3><infml>$
+[/6SnWdtHszDOp]
+[6T4GTaNKpJKn#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@might<vaux><inf>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/6T4GTaNKpJKn]
+[6VG5jvvyvYBU#0] ^কোথায়<adv>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^রাখ<vblex><past><smpl><p2><fam>$ ^বই<n><nt><nn><sg><nom><def>$ ^?<sent>$
+[/6VG5jvvyvYBU]
+[6hZKoo4RRSze#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/6hZKoo4RRSze]
+[6i8xMd-F1nbM#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/6i8xMd-F1nbM]
+[6lsI9ySfND2y#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^দেখ<vblex><pres><smpl><p1>$ ^prpers<prn><p3><infml><aa><mf><sg><gen>$
+[/6lsI9ySfND2y]
+[6xKqLni8lYNv#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^নিজে<prn><ref><mf><sg><obj>$ ^দেখ<vblex><past><smpl><p2><fam>$
+[/6xKqLni8lYNv]
+[74goyqE8wbAg#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^আছ<vblex><pres><smpl><PD>$ ^না<adv>$ ^কাজ কর<vblex><TD><PD>$^.<sent>$
+[/74goyqE8wbAg]
+[75yXBwWLFg7W#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@might<vaux><inf>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/75yXBwWLFg7W]
+[7ZgnIjg1vXK-#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^আছ<vblex><plprft><PD>$ ^না<adv>$ ^বল<vblex><pp>$^.<sent>$
+[/7ZgnIjg1vXK-]
+[7jhzg84g7ANN#0] ^কেমন<adv>$ ^মেশিন<n><mf><nn><pl><nom>$ ^তৈরি কর<vblex><pres><p3><infml>$^?<sent>$
+[/7jhzg84g7ANN]
+[7nQMvYM0MDpi#0] ^@Who<prn><itg><m><sp>$ ^@want# to<vbmod><pri><p3><sg>$ ^পান কর<vblex><inf>$ ^দুধ<n><nt><nn><sg><nom>$^?<sent>$
+[/7nQMvYM0MDpi]
+[81a6XLAKw0lG#0] ^আমার<det><gen>$ ^মেয়ে<n><f><hu><pl><nom>$
+[/81a6XLAKw0lG]
+[81et2ndIvO3D#0] ^ছেলে<n><mf><hu><sg><nom><def>$ ^খুব<adv>$ ^বলিষ্ঠ<adj><sint><mf>$ ^এবং<cnjcoo>$ ^সুস্থ<adj><mf>$^.<sent>$
+[/81et2ndIvO3D]
+[8g7ZyPwC0E8o#0] ^@Please<adv>$ ^দে<vblex><inf>$ ^prpers<prn><p1><aa><mf><sg><nom>$ ^এক<num><nn>$ ^কাঁচ<n><nt><nn><sg><nom>$ ^@of<pr>$ ^জল<n><nt><nn><sg><nom>$^.<sent>$
+[/8g7ZyPwC0E8o]
+[8gA9cUpkn7Pe#0] ^@What<prn><itg><m><sp>$ ^রানী<n><f><el><sg><nom><def>$ ^কি<det><itg><sp>$ ^অনুরোধ কর<vblex><past><smpl><p3><infml>$ ^রাজা<n><mf><hu><sg><nom><def>$ ^?<sent>$
+[/8gA9cUpkn7Pe]
+[8zM7N88JSXtj#0] ^@Please<adv>$ ^ধার দে<vblex><inf>$ ^prpers<prn><p1><aa><mf><sg><nom>$ ^তোমার<det><gen>$ ^বই<n><nt><nn><sg><nom>$^.<sent>$
+[/8zM7N88JSXtj]
+[9N8EmcCGDmHR#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^আছ<vblex><pres><smpl><PD>$ ^না<adv>$ ^বল<vblex><ger><PD>$^.<sent>$
+[/9N8EmcCGDmHR]
+[9SAP2Jeept3b#0] ^@Will<vaux><inf>$ ^prpers<prn><p1><aa><mf><sg><nom>$ ^কাজ কর<vblex><pres><smpl><p1>$^?<sent>$
+[/9SAP2Jeept3b]
+[9_2yf5xUJmwP#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@can<vaux><past>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/9_2yf5xUJmwP]
+[9cZzYmTgxlxo#0] ^বল<vblex><inf>$ ^prpers<prn><p1><aa><mf><sg><nom>$ ^কোথায়<adv>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^আছ<vblex><prft><PD>$ ^জন্য<post>$ ^সুতরাং<adv>$ ^@long<adv>$^?<sent>$
+[/9cZzYmTgxlxo]
+[9g14RT9K68Hh#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কোথায়<adv>$ ^আছ<vblex><plprft><p3><infml>$ ^@born<adj>$ ^?<sent>$
+[/9g14RT9K68Hh]
+[9nlJ54dR2Mvq#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কাজ কর<vblex><pres><cnt><p1>$^.<sent>$
+[/9nlJ54dR2Mvq]
+[9qDzITMtmT3O#0] ^@Whose<det><itg><sp>$ ^বই<n><nt><nn><sg><nom>$ ^আছ<vblex><pres><smpl><PD>$ ^@this<prn><tn><mf><sg>$ ^?<sent>$
+[/9qDzITMtmT3O]
+[9tmwMUVHU4M7#0] ^আছ<vblex><past><smpl><PD><vpos>$ ^prpers<prn><p1><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><cnt><p1>$^?<sent>$
+[/9tmwMUVHU4M7]
+[9vnWjIZB318E#0] ^@Would<vaux><inf>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^prpers<prn><p1><aa><mf><sg><obj>$ ^দে<vblex><pres><smpl><p2><fam>$ ^এক<num><nn>$ ^টুকরা<n><nt><nn><sg><nom>$ ^@of<pr>$ ^কাগজ<n><mf><nn><sg><nom>$ ^?<sent>$
+[/9vnWjIZB318E]
+[AAM9R2kW-uoh#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@might<vaux><inf>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/AAM9R2kW-uoh]
+[AE_mWHkfegOt#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^হ<vblex><inf>$ ^কর্মরত<adj><mf>$^.<sent>$
+[/AE_mWHkfegOt]
+[AObcgWsg3aF4#0] ^আছ<vblex><past><smpl><PD><vpos>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><cnt><p2><fam>$^?<sent>$
+[/AObcgWsg3aF4]
+[AObj5Os7Jboo#0] ^@How much<det><itg><sg>$ ^টাকা<n><nt><nn><sg><nom>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^চা<vblex><pres><smpl><p2><fam>$ ^?<sent>$
+[/AObj5Os7Jboo]
+[ATn4mMEPPsjL#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^বল<vblex><inf><p1>$^.<sent>$
+[/ATn4mMEPPsjL]
+[AYUUVShgDVPx#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^এক<num><aa>$ ^গাধা<n><m><aa><sg><obj>$ ^দেখ<vblex><prft><p1>$ ^@but<cnjcoo>$ ^না<adv>$ ^এক<num><aa>$ ^হাতি<n><mf><aa><sg><nom>$^.<sent>$
+[/AYUUVShgDVPx]
+[AdfpxK7JMcTf#0] ^ছেলে<n><mf><hu><pl><nom><>$ ^হকি<n><mf><nn><sg><obj>$ ^খেল<vblex><pres><cnt><p3><infml>$^.<sent>$
+[/AdfpxK7JMcTf]
+[AjU6txTcw8Vb#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কর<vblex><ft><smpl><p1>$^.<sent>$
+[/AjU6txTcw8Vb]
+[Apz3K-IU-7Z4#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^পছন্দ কর<vblex><pres><smpl><p2><fam>$ ^বরাবর<post>$ ^খেল<vblex><inf>$ ^ফুটবল<n><mf><nn><sg><nom>$ ^?<sent>$
+[/Apz3K-IU-7Z4]
+[Ax3UhO4AKvnz#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^জ্বর<n><nt><nn><sg><obj>$ ^থেকে<post>$ ^ভুগ<vblex><pres><cnt><p1>$ ^জন্য<post>$ ^এক<num><nn>$ ^মাস<n><mf><nn><sg><nom>$^.<sent>$
+[/Ax3UhO4AKvnz]
+[AzQf6YQe7miH#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/AzQf6YQe7miH]
+[B0YqmL5k30wd#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><smpl><p1>$^.<sent>$
+[/B0YqmL5k30wd]
+[BCMCZLDqD2iw#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^এক<num><hu>$ ^ভালো<adj><mf>$ ^ছাত্র<n><mf><hu><sg><nom>$ ^হ<vblex><ft><smpl><p2><fam>$^.<sent>$
+[/BCMCZLDqD2iw]
+[BEjlMwNJq_m_#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@may<vaux><inf>$ ^না<adv>$ ^আস<vblex><inf>$ ^এখানে<adv>$ ^আগামীকাল<adv>$^.<sent>$
+[/BEjlMwNJq_m_]
+[BLhzZmiqSWA8#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^আছ<vblex><pres><smpl><PD>$ ^বল<vblex><ger><PD>$^.<sent>$
+[/BLhzZmiqSWA8]
+[BSfhRoGLs-IB#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^prpers<prn><p3><infml><aa><mf><sg><obj>$ ^যখন<adv><itg>$^ যা<vblex><ft><smpl><p1>$ ^আস<vblex><pres><smpl><PD>$^.<sent>$
+[/BSfhRoGLs-IB]
+[BYuKDGaUNWCv#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@have<vbhaver><prft>$ ^না<adv>$ ^কাজ কর<vblex><past><cnt><PD>$^.<sent>$
+[/BYuKDGaUNWCv]
+[Be2dxNUQHlgv#0] ^এই<det><dem>$ ^গাড়ি<n><mf><nn><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^আছ<vblex><inf>$ ^এয়ার<n><nt><nn><sg><nom>$^@-<guio>$^@conditioner<n><nom><p3>$^.<sent>$
+[/Be2dxNUQHlgv]
+[BptNqDpg2Isb#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^আছ<vblex><plprft><PD>$ ^বল<vblex><ger><PD>$^.<sent>$
+[/BptNqDpg2Isb]
+[C7hpHZaQXTfk#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@can<vaux><past>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/C7hpHZaQXTfk]
+[C8-PO3InjVso#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কেন<adv>$ ^আছ<vblex><pres><smpl><p2><fam>$ ^সুতরাং<adv>$ ^@weep<vblex><TD><PD>$ ^@bitterly<adv>$ ^?<sent>$
+[/C8-PO3InjVso]
+[C8Ujr6w876n5#0] ^আছ<vblex><past><smpl><PD><vpos>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><smpl><p2><fam>$^?<sent>$
+[/C8Ujr6w876n5]
+[C9hiiY0odqRL#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@have<vbhaver><plprft>$ ^না<adv>$ ^কাজ কর<vblex><past><cnt><PD>$^.<sent>$
+[/C9hiiY0odqRL]
+[CDiH-SMqwb5G#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কাজ কর<vblex><pres><smpl><p3><infml>$^.<sent>$
+[/CDiH-SMqwb5G]
+[CMZD6MyETBHI#0] ^আছ<vblex><pres><smpl><PD><vpos>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><smpl><p2><fam>$^?<sent>$
+[/CMZD6MyETBHI]
+[CPMMmWartRRx#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^এক<num><hu>$ ^ভালো<adj><mf>$ ^ছাত্র<n><mf><hu><sg><nom>$^.<sent>$
+[/CPMMmWartRRx]
+[CVtQ10Bcny7Z#0] ^@When$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^সেখানে<adv>$ ^যা<vblex><past><smpl><p2><fam>$ ^?<sent>$
+[/CVtQ10Bcny7Z]
+[CZ4H8xAqEpGu#0] ^মানুষ<n><mf><hu><sg><nom><def>$ ^দরিদ্র<adj><mf>$ ^@but<cnjcoo>$ ^সৎ<adj><mf>$^.<sent>$
+[/CZ4H8xAqEpGu]
+[Cg-zcrHK26kt#0] ^আছ<vblex><pres><smpl><PD><vpos>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@any$ ^সংশয়<n><mf><nn><sg><nom>$ ^@about<pr>$ ^prpers<prn><p3><infml><nn><mf><sg><nom>$ ^?<sent>$
+[/Cg-zcrHK26kt]
+[CnE3hizVUMA2#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sg>$ ^কর্মরত<adj><mf>$ ^আছ<vblex><plprft><p2><fam>$^?<sent>$
+[/CnE3hizVUMA2]
+[Cs5hCAObXky4#0] ^@Will<vaux><inf>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^বাজার<n><mf><nn><sg><obj>$ ^বরাবর<post>$ ^যা<vblex><pres><smpl><p2><fam>$ ^এখন<adv>$ ^?<sent>$
+[/Cs5hCAObXky4]
+[Ct_1baTJbRBq#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কর<vblex><past><smpl><p1>$^.<sent>$
+[/Ct_1baTJbRBq]
+[DDsPigvqASo5#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^এখানে<adv>$ ^আস<vblex><past><smpl><p3><infml>$ ^গতকাল<adv>$^.<sent>$
+[/DDsPigvqASo5]
+[DH06-BXMgyMG#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@may<vaux><inf>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/DH06-BXMgyMG]
+[DSCFCFbpfhTU#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কি<det><itg><sg>$ ^কাজ কর<vblex><pres><cnt><p1>$^?<sent>$
+[/DSCFCFbpfhTU]
+[De2QhzJPPOOP#0] ^গতকাল<adv>$ ^prpers<prn><p1><aa><mf><sg><nom>$ ^এক<num>$ ^@European<n><obj><p3>$ ^দেখ<vblex><past><smpl><p1>$ ^@on the way<adv>$^.<sent>$
+[/De2QhzJPPOOP]
+[DmHhP03JBTLo#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কাজ কর<vblex><ft><smpl><p2><fam>$^.<sent>$
+[/DmHhP03JBTLo]
+[Du0lhg1ggzs0#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^এক<num><hu>$ ^ভালো<adj><mf>$ ^ছাত্র<n><mf><hu><sg><nom>$^.<sent>$
+[/Du0lhg1ggzs0]
+[E1nN04UNsOGn#0] ^কোথায়<adv>$ ^@will<vaux><inf>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^আগামীকাল<adv>$ ^যা<vblex><pres><smpl><p2><fam>$^?<sent>$
+[/E1nN04UNsOGn]
+[EASZiUhrdOjW#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কাজ কর<vblex><prft><p2><fam>$^.<sent>$
+[/EASZiUhrdOjW]
+[ECTqD1qwaP9r#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কেন<adv>$ ^আছ<vblex><pres><smpl><p2><fam>$ ^@late<adv>$ ^আজকে<adv>$^?<sent>$
+[/ECTqD1qwaP9r]
+[EFubIVA3gLUH#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@can<vaux><past>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/EFubIVA3gLUH]
+[ETmXvZkS1wTY#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^দুই<num><nn>$ ^বেলা<n><mf><nn><sg><gen>$ ^জন্য<post>$ ^বই<n><nt><nn><sg><nom><def>$ ^পড়<vblex><pres><cnt><p3><infml>$^.<sent>$
+[/ETmXvZkS1wTY]
+[Eei6Ob4I4LRb#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^বই<n><nt><nn><sg><obj><def>$ ^দেখ<vblex><pres><smpl><p1>$^.<sent>$
+[/Eei6Ob4I4LRb]
+[EoB-t6QLvl54#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@might<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/EoB-t6QLvl54]
+[F5ftDWtHuGhz#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^prpers<prn><p3><infml><mf><pl><obj>$ ^দেখ<vblex><pres><smpl><p1>$
+[/F5ftDWtHuGhz]
+[FU3K6LJ6pjDX#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@have<vbhaver><prft>$ ^না<adv>$ ^হ<vblex><pp>$ ^বল<vblex><ger><PD>$^.<sent>$
+[/FU3K6LJ6pjDX]
+[FyfbjipIOGJp#0] ^prpers<prn><p1><aa><mf><pl><nom>$ ^ট্রেন<n><mf><nn><sg><gen><def>$ ^পরে<post>$ ^স্টেশন<n><nt><nn><sg><nom><def>$ ^@reach<vblex><past><smpl><p1>$ ^উপস্থিত হ<vblex><plprft><PD>$^.<sent>$
+[/FyfbjipIOGJp]
+[G2xwU8lcMZzY#0] ^@How$ ^কর<vblex><inf>$ ^সন্তান<n><mf><hu><pl><nom>$ ^*browse$ ^ইন্টারনেট<n><nt><nn><sg><nom><def>$^?<sent>$
+[/G2xwU8lcMZzY]
+[GW_7iXBWRqGI#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sg>$ ^কর্মরত<adj><mf>$^?<sent>$
+[/GW_7iXBWRqGI]
+[GYMd5idFOdGO#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><cnt><p2><fam>$^.<sent>$
+[/GYMd5idFOdGO]
+[GonzB8tAeQ-9#0] ^এক<num><aa>$ ^সাপ<n><mf><aa><sg><nom>$ ^*crawled$ ^@into<pr>$ ^এক<num><nn>$ ^গর্ত<n><nt><nn><sg><nom>$^.<sent>$
+[/GonzB8tAeQ-9]
+[GryHnOrxe1VB#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@will<vaux><inf>$ ^না<adv>$ ^হ<vblex><inf>$ ^কর্মরত<adj><mf>$^.<sent>$
+[/GryHnOrxe1VB]
+[GvGB9IDDXii4#0] ^prpers<prn><p1><aa><mf><pl><nom>$ ^আছ<vblex><pres><smpl><PD>$ ^না<adv>$ ^@late<adv>$ ^আজকে<adv>$^.<sent>$
+[/GvGB9IDDXii4]
+[H6ENw_uZxcja#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@can<vaux><past>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/H6ENw_uZxcja]
+[HcGBR51WEVDK#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^এক<num><hu>$ ^ভালো<adj><mf>$ ^ছাত্র<n><mf><hu><sg><nom>$ ^আছ<vblex><plprft><p1>$^.<sent>$
+[/HcGBR51WEVDK]
+[Ht__9D20cqbB#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কর<vblex><prft><p1>$^.<sent>$
+[/Ht__9D20cqbB]
+[HzT3UnJULj0Y#0] ^@Nobody<prn><tn><m><sg>$ ^আছ<vblex><plprft><PD>$ ^হাজির<adj><mf>$ ^সেখানে<adv>$^.<sent>$
+[/HzT3UnJULj0Y]
+[IA0eXNxbsiU-#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@shall<vaux><inf>$ ^না<adv>$ ^যা<vblex><inf>$ ^বরাবর<post>$ ^স্কুল<n><mf><nn><sg><nom>$^.<sent>$
+[/IA0eXNxbsiU-]
+[IIsIsrGiv0fn#0] ^আমার<det><gen>$ ^বিড়াল<n><mf><aa><pl><nom>$
+[/IIsIsrGiv0fn]
+[IP4b0gHNkAvb#0] ^মানুষ<n><mf><hu><sg><nom>$
+[/IP4b0gHNkAvb]
+[IV3x5n7CAtkG#0] ^এই<det><dem>$ ^গাড়ি<n><mf><nn><sg><nom>$ ^@should<vaux><inf>$ ^আছ<vblex><inf>$ ^এয়ার<n><nt><nn><sg><nom>$^@-<guio>$^@conditioner<n><nom><p3>$^.<sent>$
+[/IV3x5n7CAtkG]
+[I_kbKA2qxE5w#0] ^prpers<prn><p3><infml><nn><mf><sg><nom>$ ^@rain<vblex><past><cnt><p3><infml>$^.<sent>$
+[/I_kbKA2qxE5w]
+[IaiYVh9xkJLW#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@might<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/IaiYVh9xkJLW]
+[J-lSAxwdThRB#0] ^@Let<vblex><pp>$ ^@the<det><def><sp>$ ^*sarvent$ ^আস<vblex><pp>$ ^সাথে<post>$ ^prpers<prn><p1><aa><mf><pl><nom>$^.<sent>$
+[/J-lSAxwdThRB]
+[J5qtKBvLI8Ah#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^না<adv>$ ^*bye$ ^এক<num><nn>$ ^অরেঞ্জ<n><nt><nn><sg><nom>$ ^থেকে<post>$ ^বাজার<n><mf><nn><sg><nom>$^.<sent>$
+[/J5qtKBvLI8Ah]
+[JLqKI_25aY_9#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@have<vbhaver><prft><p3><sg>$ ^না<adv>$ ^কাজ কর<vblex><past><cnt><PD>$^.<sent>$
+[/JLqKI_25aY_9]
+[JVw2QZ2IVm3L#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@will<vaux><inf>$ ^না<adv>$ ^বল<vblex><inf><PD>$^.<sent>$
+[/JVw2QZ2IVm3L]
+[Jq63gb6ouGHS#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কাজ কর<vblex><plprft><p3><infml>$^.<sent>$
+[/Jq63gb6ouGHS]
+[K5zWcBW-U5S7#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^এক<num><hu>$ ^@clever<adj><sint>$ ^মানুষ<n><mf><hu><sg><nom>$^.<sent>$
+[/K5zWcBW-U5S7]
+[KZ3FjBDpHYTB#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^এক<num><hu>$ ^ভালো<adj><mf>$ ^ছাত্র<n><mf><hu><sg><nom>$ ^হ<vblex><ft><smpl><p3><infml>$^.<sent>$
+[/KZ3FjBDpHYTB]
+[KZtYdKTtN3Uh#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@might<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/KZtYdKTtN3Uh]
+[LH014Ld_qKgQ#0] ^prpers<prn><p3><infml><nn><mf><sg><nom>$ ^@should<vaux><inf>$ ^কর<vblex><inf><PD>$^.<sent>$
+[/LH014Ld_qKgQ]
+[LH8xItTrv_bJ#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^আছ<vblex><pres><smpl><PD>$ ^না<adv>$ ^বল<vblex><pp>$^.<sent>$
+[/LH8xItTrv_bJ]
+[LQgsmyphqFrT#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/LQgsmyphqFrT]
+[LRdNwZFwYisO#0] ^কি<det><itg><sp>$ ^আছ<vblex><plprft><PD>$ ^আমার<det><gen>$ ^নাম<n><mf><nn><sg><nom>$^?<sent>$
+[/LRdNwZFwYisO]
+[Lv3XcJN-1Caq#0] ^prpers<prn><p1><aa><mf><pl><nom>$ ^কি<det><itg><sp>$ ^না<adv>$ ^গ্রহণ কর<vblex><inf>$ ^চা<n><mf><nn><sg><nom>$^.<sent>$
+[/Lv3XcJN-1Caq]
+[MIDmFoLu7KlT#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^এক<num><hu>$ ^ভালো<adj><mf>$ ^ছাত্র<n><mf><hu><sg><nom>$^.<sent>$
+[/MIDmFoLu7KlT]
+[MIRQRTbABwD9#0] ^আছ<vblex><pres><smpl><PD><vpos>$ ^prpers<prn><p1><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><smpl><p1>$^?<sent>$
+[/MIRQRTbABwD9]
+[MTf1Ff649VSC#0] ^@Kindly<adv>$ ^আস<vblex><inf>$ ^এখানে<adv>$ ^আগামীকাল<adv>$^.<sent>$
+[/MTf1Ff649VSC]
+[MXPk7kPVmpkq#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@may<vaux><inf>$ ^না<adv>$ ^আছ<vblex><inf>$ ^এই<det><dem>$ ^বই<n><nt><nn><sg><nom>$^.<sent>$
+[/MXPk7kPVmpkq]
+[M_3A2-BE3A9q#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কাজ কর<vblex><plprft><p1>$^.<sent>$
+[/M_3A2-BE3A9q]
+[Mdh_F-gAxiOn#0] ^prpers<prn><p1><aa><mf><pl><nom>$ ^নিজেরা<prn><ref><mf><pl><obj>$ ^দেখ<vblex><past><smpl><p1>$
+[/Mdh_F-gAxiOn]
+[MqSEjPlApoRF#0] ^বরাবর<post>$ ^@whom<rel><an><mf><sp>$ ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^বল<vblex><past><smpl><p3><infml>$ ^গল্প<n><mf><nn><sg><nom><def>$^?<sent>$
+[/MqSEjPlApoRF]
+[MyxEeZuL86VD#0] ^মানুষ<n><mf><hu><sg><nom><def>$ ^হাঁট<vblex><past><cnt><p3><infml>$^.<sent>$
+[/MyxEeZuL86VD]
+[N8-tPgfUS4SE#0] ^prpers<prn><p3><infml><aa><mf><pl><nom>$ ^@will<vaux><inf>$ ^না<adv>$ ^কি<det><itg><sp>$ ^কাজ<n><nt><nn><sg><nom><def>$ ^@in time<adv>$^.<sent>$
+[/N8-tPgfUS4SE]
+[NAdfQ4eTkKDP#0] ^কি<det><itg><sp>$ ^আছ<vblex><pres><smpl><PD>$ ^লক্ষ্য<n><nt><nn><sg><nom><def>$ ^@of<pr>$ ^তোমার<det><gen>$ ^জীবন<n><nt><nn><sg><nom>$ ^?<sent>$
+[/NAdfQ4eTkKDP]
+[NFkrRZrSCzbr#0] ^@Whom<rel><an><mf><sp>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^চা<vblex><pres><smpl><p2><fam>$^?<sent>$
+[/NFkrRZrSCzbr]
+[NXlnQRQyMDH9#0] ^আমার<det><gen>$ ^ভাই<n><m><hu><sg><nom>$ ^এক<num><hu>$ ^প্রকৌশলী<n><mf><hu><sg><nom>$^.<sent>$
+[/NXlnQRQyMDH9]
+[Ni3JqBykE2Xq#0] ^prpers<prn><p3><infml><nn><mf><sg><nom>$ ^@might<vaux><inf>$ ^কর<vblex><inf><PD>$^.<sent>$
+[/Ni3JqBykE2Xq]
+[NquDPL64NL5C#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^prpers<prn><p3><infml><aa><mf><sg><obj>$ ^দেখ<vblex><pres><smpl><p1>$
+[/NquDPL64NL5C]
+[NroLcNQ9SjBr#0] ^এই<det><dem>$ ^মেশিন<n><mf><nn><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/NroLcNQ9SjBr]
+[O-Gdxzw7VEke#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@can<vaux><pres>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/O-Gdxzw7VEke]
+[O50FCYL_iNh2#0] ^@What<prn><itg><m><sp>$ ^হ<vblex><ft><smpl><PD>$ ^prpers<prn><p3><infml><aa><mf><sg><gen>$ ^নাম<n><mf><nn><sg><nom>$^?<sent>$
+[/O50FCYL_iNh2]
+[OO2LpS-Z5WYn#0] ^@How$ ^prpers<prn><p3><infml><nn><mf><sg><nom>$ ^@far<adv>$ ^আছ<vblex><pres><smpl><p3><infml>$^?<sent>$
+[/OO2LpS-Z5WYn]
+[OOSdhD_ILZlw#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^নিজে<prn><ref><mf><sg><obj>$ ^দেখ<vblex><past><smpl><p1>$
+[/OOSdhD_ILZlw]
+[OS4on5_0sPKH#0] ^আছ<vblex><plprft><PD>$ ^ছেলে<n><mf><hu><sg><p3>$ ^@present<n><nom><p3>$ ^@in<pr>$ ^ক্লাস<n><mf><nn><sg><nom><def>$ ^?<sent>$
+[/OS4on5_0sPKH]
+[Opr39wnl7Anw#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/Opr39wnl7Anw]
+[Ot9NEm7oqa1a#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@have<vbhaver><plprft>$ ^না<adv>$ ^হ<vblex><pp>$ ^বল<vblex><ger><PD>$^.<sent>$
+[/Ot9NEm7oqa1a]
+[P-PzQB6YZFp1#0] ^@How$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^জান<vblex><pres><smpl><p2><fam>$ ^@about<pr>$ ^prpers<prn><p3><infml><mf><pl><nom>$^?<sent>$
+[/P-PzQB6YZFp1]
+[P0Jwi465Ijcy#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/P0Jwi465Ijcy]
+[P4lKuEYZhlSj#0] ^@How<preadv>$ ^ভালো<adj><mf>$ ^@this<det><dem><pl>$ ^ফল<n><nt><nn><pl><nom>$^?<sent>$
+[/P4lKuEYZhlSj]
+[PCGN806_XtgR#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@can<vaux><past>$ ^না<adv>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/PCGN806_XtgR]
+[P_0eoseD_lw7#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^এক<num><hu>$ ^ভালো<adj><mf>$ ^ছাত্র<n><mf><hu><sg><nom>$ ^আছ<vblex><plprft><p3><infml>$^.<sent>$
+[/P_0eoseD_lw7]
+[PcJAS8tnamWF#0] ^এক<num>$ ^*idle$ ^মানুষ<n><mf><hu><sg><nom>$ ^কখনোই<adv>/কখনো<adv>$ ^সুখী<adj><mf>$^.<sent>$
+[/PcJAS8tnamWF]
+[PcjhZbTrWWpy#0] ^এই<det><dem>$ ^মেশিন<n><mf><nn><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^হ<vblex><inf>$ ^কর্মরত<adj><mf>$^.<sent>$
+[/PcjhZbTrWWpy]
+[PlhQMQzEkes8#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@can<vaux><past>$ ^না<adv>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/PlhQMQzEkes8]
+[PpUuH5NIs_L_#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^খা<vblex><past><smpl><p2><fam>$ ^এই<det><dem>$ ^রুটি<n><nt><nn><sg><nom>$^?<sent>$
+[/PpUuH5NIs_L_]
+[PquKB5Nf1KTR#0] ^কেমন<adv>$ ^@will<vaux><inf>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^সেখানে<adv>$ ^যা<vblex><pres><smpl><p2><fam>$ ^?<sent>$
+[/PquKB5Nf1KTR]
+[Px2rfOq935IG#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@can<vaux><past>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/Px2rfOq935IG]
+[PxStVLJd1XjF#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^হওয়া<n><mf><nn><sg><nom>$ ^হ<vblex><ft><smpl><p1>$ ^বল<vblex><past><smpl><PD>$^.<sent>$
+[/PxStVLJd1XjF]
+[PzMdyZ8H94m3#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@can<vaux><pres>$ ^আছ<vblex><inf>$ ^এই<det><dem>$ ^বই<n><nt><nn><sg><nom>$^.<sent>$
+[/PzMdyZ8H94m3]
+[Q1ZAa18MJhG6#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@may<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/Q1ZAa18MJhG6]
+[Q3WQMIrymcj1#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^হ<vblex><inf>$ ^কর্মরত<adj><mf>$^.<sent>$
+[/Q3WQMIrymcj1]
+[QEJ_amjUNcBz#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^হ<vblex><inf>$ ^কর্মরত<adj><mf>$^.<sent>$
+[/QEJ_amjUNcBz]
+[QJ4VxCeM7xiT#0] ^prpers<prn><p3><infml><aa><mf><pl><nom>$ ^দেখ<vblex><past><smpl><p3><infml>$ ^@nothing<prn><tn><m><sg>$ ^@in<pr>$ ^ঘর<n><nt><nn><sg><nom><def>$^.<sent>$
+[/QJ4VxCeM7xiT]
+[QYHrntH_heeU#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কর<vblex><past><cnt><p1>$^.<sent>$
+[/QYHrntH_heeU]
+[QwXNvFe7Xww4#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^আছ<vblex><plprft><PD>$ ^না<adv>$ ^কাজ কর<vblex><TD><PD>$^.<sent>$
+[/QwXNvFe7Xww4]
+[RHb8X-2o3shr#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@can<vaux><past>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/RHb8X-2o3shr]
+[RLLCjYLK79-X#0] ^@How long<adv>$ ^prpers<prn><p3><infml><nn><mf><sg><nom>$ ^কি<det><itg><sp>$ ^গ্রহণ কর<vblex><pres><smpl><p3><infml>$^?<sent>$
+[/RLLCjYLK79-X]
+[RsPy3sfOkH_i#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@can<vaux><pres>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/RsPy3sfOkH_i]
+[S37mKr78TohK#0] ^@Which<prn><itg><m><sp>$ ^@of<pr>$ ^@the<det><def><sp>$ ^*mangoes$ ^আছ<vblex><pres><smpl><PD>$ ^মধুর<adj><mf>$ ^?<sent>$
+[/S37mKr78TohK]
+[S_L_PDq6fnRK#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@have<vbhaver><prft><p3><sg>$ ^কখনোই<adv>$ ^আস<vblex><inf>$ ^এখানে<adv>$^.<sent>$
+[/S_L_PDq6fnRK]
+[Sl4ueUrLoJLh#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/Sl4ueUrLoJLh]
+[SleEmeBpzwEc#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@will<vaux><inf>$ ^না<adv>$ ^হ<vblex><inf>$ ^কর্মরত<adj><mf>$^.<sent>$
+[/SleEmeBpzwEc]
+[Smbedod4WNKh#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কর্মরত<adj><mf>$ ^হ<vblex><ft><smpl><p1>$^.<sent>$
+[/Smbedod4WNKh]
+[T2FrNe_taomF#0] ^prpers<prn><p3><infml><aa><mf><pl><nom>$ ^এক<num><nn>$ ^দারুণ<adj><mf>$ ^লড়াই<n><mf><nn><sg><obj>$ ^লড়াই কর<vblex><past><smpl><p3><infml>$^.<sent>$
+[/T2FrNe_taomF]
+[T4C9ip_65LsI#0] ^জল<n><nt><nn><sg><nom>$ ^@freeze<n><nom><p3>$ ^কর্তৃক<post>/দ্বারা<post>$ ^ঠাণ্ডা<n><mf><nn><sg><nom>$^.<sent>$
+[/T4C9ip_65LsI]
+[TALI_9y7UTr7#0] ^@let<vblex><pp>$ ^prpers<prn><p1><aa><mf><pl><nom>$ ^এক<num>$ ^@walk<n><obj><p3>$ ^জন্য<post>$ ^@go<vblex><pres><smpl><p1># out$^.<sent>$
+[/TALI_9y7UTr7]
+[TGABTxbrRrKZ#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কি<det><itg><sg>$ ^কাজ কর<vblex><past><cnt><p1>$^?<sent>$
+[/TGABTxbrRrKZ]
+[ThkP8X2c6t8u#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^জান<vblex><pres><smpl><p3><infml>$ ^prpers<prn><p1><aa><mf><sg><nom>$^?<sent>$
+[/ThkP8X2c6t8u]
+[Tp9dXBXL4DnJ#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@can<vaux><pres>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/Tp9dXBXL4DnJ]
+[Tu7h8CC6hMPD#0] ^আমাদের<det><gen>$ ^শিক্ষক<n><mf><hu><sg><nom>$ ^*heartily$ ^ইচ্ছা কর<vblex><past><smpl><PD>$ ^আমাদের<det><gen>$ ^সফলতা<n><nt><nn><sg><nom>$ ^@in<pr>$ ^পরীক্ষা<n><nt><nn><sg><nom><def>$^.<sent>$
+[/Tu7h8CC6hMPD]
+[U724_9QjlBcJ#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^খা<vblex><past><smpl><p3><infml>$ ^এই<det><dem>$ ^রুটি<n><nt><nn><sg><nom>$^?<sent>$
+[/U724_9QjlBcJ]
+[UGXz7NOGaCwX#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><cnt><p1>$^.<sent>$
+[/UGXz7NOGaCwX]
+[URZ-i-yQJIhA#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@can<vaux><pres>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/URZ-i-yQJIhA]
+[UnFsXwlxsMOy#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@might<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/UnFsXwlxsMOy]
+[UsbLb7bRgYTi#0] ^পুলিশ<n><mf><hu><pl><nom><>$ ^চোর<n><mf><hu><sg><obj><def>$ ^গ্রেপ্তার কর<vblex><inf><p3><infml>$^.<sent>$
+[/UsbLb7bRgYTi]
+[V4UdLdpSmnYK#0] ^দে<vblex><inf>$ ^prpers<prn><p1><aa><mf><sg><nom>$ ^এক<num><nn>$ ^গল্প<n><mf><nn><sg><nom>$ ^বই<n><nt><nn><sg><nom>$^.<sent>$
+[/V4UdLdpSmnYK]
+[V8teFhg2EbWw#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><cnt><p3><infml>$^.<sent>$
+[/V8teFhg2EbWw]
+[VAYjhvtRWUd4#0] ^@Which<det><itg><sp>$ ^বই<n><nt><nn><sg><nom>$ ^আছ<vblex><pres><smpl><PD>$ ^@the<det><def><sp>$ ^ভালো<adj><mf>$^?<sent>$
+[/VAYjhvtRWUd4]
+[VEST27MJH1V3#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^বল<vblex><past><smpl><p1>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$^?<sent>$
+[/VEST27MJH1V3]
+[Vk3zis0uDxS6#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^কাজ কর<vblex><pres><smpl><p2><fam>$^?<sent>$
+[/Vk3zis0uDxS6]
+[Vxnqp80qBMvD#0] ^খাবার<n><nt><nn><sg><nom>$ ^গা<n><mf><nn><sg><obj><def>$ ^@nourish<vblex><pres><smpl><p3><infml>$^.<sent>$
+[/Vxnqp80qBMvD]
+[W1oJxpXG1sNr#0] ^কর্মী<n><mf><nn><pl><nom><>$ ^@on the road<adv>$ ^কাজ কর<vblex><past><cnt><p3><infml>$^.<sent>$
+[/W1oJxpXG1sNr]
+[WhT4boCtHhUi#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@may<vaux><inf>$ ^আছ<vblex><inf>$ ^এই<det><dem>$ ^বই<n><nt><nn><sg><nom>$^.<sent>$
+[/WhT4boCtHhUi]
+[Wqyw-Rt2zwS4#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^এক<num><nn>$ ^বই<n><nt><nn><sg><obj>$ ^আছ<vblex><ft><smpl><p1>$^.<sent>$
+[/Wqyw-Rt2zwS4]
+[XCB_q4LGjnuz#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/XCB_q4LGjnuz]
+[XwvzwgWJPyUE#0] ^prpers<prn><p3><infml><aa><mf><pl><nom>$ ^ধনী<adj><mf>$^.<sent>$
+[/XwvzwgWJPyUE]
+[Y2BoWNDZ_b_i#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^এক<num><hu>$ ^ভালো<adj><mf>$ ^ছাত্র<n><mf><hu><sg><nom>$ ^আছ<vblex><plprft><p1>$^.<sent>$
+[/Y2BoWNDZ_b_i]
+[Yd0Z0ao9Yeb7#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@can<vaux><pres>$ ^না<adv>$ ^আছ<vblex><inf>$ ^এই<det><dem>$ ^বই<n><nt><nn><sg><nom>$^.<sent>$
+[/Yd0Z0ao9Yeb7]
+[YlQjxLtF2A6d#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@have<vbhaver><prft>$ ^না<adv>$ ^দেখ<vblex><pp>$ ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^জন্য<post>$ ^এক<num><nn>$ ^সপ্তাহ<n><mf><nn><sg><nom>$ ^@or so<adv>$^.<sent>$
+[/YlQjxLtF2A6d]
+[YrwykxJAmlU_#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/YrwykxJAmlU_]
+[Z5O26gIZ-qp9#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কর<vblex><pres><cnt><p1>$^.<sent>$
+[/Z5O26gIZ-qp9]
+[Z5ZOvvQqDV47#0] ^prpers<prn><p3><infml><nn><mf><sg><nom>$ ^@may<vaux><inf>$ ^কর<vblex><inf><PD>$^.<sent>$
+[/Z5ZOvvQqDV47]
+[Z7Fv8PaU3ZtY#0] ^@How<preadv>$ ^বড়<adj><mf>$ ^এই<det><dem>$ ^শহর<n><mf><nn><sg><nom>$^?<sent>$
+[/Z7Fv8PaU3ZtY]
+[Z9dPJDA_V0gU#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কর<vblex><pres><cnt><p1>$^.<sent>$
+[/Z9dPJDA_V0gU]
+[ZJWhOdS6kyt7#0] ^পাখি<n><mf><aa><pl><nom>$ ^@fly<n><nom><p3>$^,<cm>$ ^বাতাস<n><nt><nn><pl><nom>$ ^@blow<n><nom><p3>$ ^এবং<cnjcoo>$ ^ফুল<n><mf><nn><pl><nom>$ ^*bloom$^.<sent>$
+[/ZJWhOdS6kyt7]
+[ZVfwO1qeW-9D#0] ^@How many<det><itg><pl>$ ^পাখি<n><mf><aa><pl><nom>$ ^আছ<vblex><plprft><PD>$ ^সেখানে<adv>$^?<sent>$
+[/ZVfwO1qeW-9D]
+[ZW6Yx8nGvhpb#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/ZW6Yx8nGvhpb]
+[ZZNwViOa9Ok2#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^মাঠ<n><nt><nn><sg><gen><def>$ ^@in<pr>$ ^ফুটবল<n><mf><nn><sg><nom>$ ^খেল<vblex><pres><smpl><p3><infml>$^.<sent>$
+[/ZZNwViOa9Ok2]
+[Zmzn8nZv6hR5#0] ^কি<det><itg><sp>$ ^আছ<vblex><pres><smpl><PD>$ ^prpers<prn><p3><infml><aa><mf><sg><gen>$ ^নাম<n><mf><nn><sg><nom>$^?<sent>$
+[/Zmzn8nZv6hR5]
+[_AAQ7Nx2vhMi#0] ^@Who<prn><itg><m><sp>$ ^আছ<vblex><plprft><PD>$ ^prpers<prn><p3><infml><aa><mf><sg><nom>$^?<sent>$
+[/_AAQ7Nx2vhMi]
+[_Hkr7IWLdqA2#0] ^@Will<vaux><inf>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^হ<vblex><inf>$ ^কর্মরত<adj><mf>$^?<sent>$
+[/_Hkr7IWLdqA2]
+[_RU-xy5vjJES#0] ^prpers<prn><p2><fam><aa><mf><sg><gen>$ ^এক<num><nn>$ ^বই<n><nt><nn><sg><obj>$ ^আছ<vblex><past><smpl><p3><infml>$^.<sent>$
+[/_RU-xy5vjJES]
+[_TD9E0xp6ksr#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^হ<vblex><inf>$ ^কর্মরত<adj><mf>$^.<sent>$
+[/_TD9E0xp6ksr]
+[_bYygZlVuGBk#0] ^@How many<det><itg><pl>$ ^বই<n><nt><nn><pl><nom>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^পড়<vblex><pres><smpl><p2><fam>$ ^?<sent>$
+[/_bYygZlVuGBk]
+[_j12v7CGCrGW#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@can<vaux><pres>$ ^আছ<vblex><inf>$ ^এই<det><dem>$ ^বই<n><nt><nn><sg><nom>$^.<sent>$
+[/_j12v7CGCrGW]
+[_oQBj0vVdXXM#0] ^ফুল<n><mf><nn><sg><nom>$ ^সৌরভ<n><nt><nn><pl><nom>$ ^মিষ্টি<n><mf><nn><sg><nom>$^.<sent>$
+[/_oQBj0vVdXXM]
+[_sX2-CC3HlhA#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^এক<num><nn>$ ^বই<n><nt><nn><sg><obj>$ ^আছ<vblex><ft><smpl><p3><infml>$^.<sent>$
+[/_sX2-CC3HlhA]
+[_w78KhU27Uy1#0] ^আমাদের<det><gen>$ ^ঘর<n><nt><nn><sg><nom>$
+[/_w78KhU27Uy1]
+[a0epLxP_jc3b#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কর্মরত<adj><mf>$ ^হ<vblex><ft><smpl><p2><fam>$^.<sent>$
+[/a0epLxP_jc3b]
+[aEcTuqz0w8xi#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^ঘর<n><nt><nn><sg><obj><def>$ ^দেখ<vblex><pres><smpl><p1>$^.<sent>$
+[/aEcTuqz0w8xi]
+[aG6dwBV6Nk8v#0] ^prpers<prn><p3><infml><nn><mf><sg><nom>$ ^@rain<vblex><pres><cnt><p3><infml>$^.<sent>$
+[/aG6dwBV6Nk8v]
+[abrwo4-gJ1Ce#0] ^ছেলে<n><mf><hu><sg><nom><def>$ ^সৎ<adj><mf>$^.<sent>$
+[/abrwo4-gJ1Ce]
+[af4xgwjbMGzZ#0] ^@Will<vaux><inf>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কাজ কর<vblex><pres><smpl><p2><fam>$^?<sent>$
+[/af4xgwjbMGzZ]
+[agnlkBDr_z61#0] ^@Let<vblex><pp>$ ^prpers<prn><p1><aa><mf><sg><nom>$ ^সিনেমা<n><mf><nn><sg><obj><def>$ ^বরাবর<post>$ ^যা<vblex><pres><smpl><p1>$ ^আজকে<adv>$^.<sent>$
+[/agnlkBDr_z61]
+[avhrsns-ToWb#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@have<vbhaver><plprft>$ ^না<adv>$ ^কাজ কর<vblex><pp>$^.<sent>$
+[/avhrsns-ToWb]
+[b37VeX7Lo3DO#0] ^@Nobody<prn><tn><m><sg>$ ^@can<vaux><pres>$ ^বসবাস কর<vblex><inf>$ ^@without<pr>$ ^খাবার<n><nt><nn><sg><nom>$^.<sent>$
+[/b37VeX7Lo3DO]
+[bFuadZrtmewj#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কাজ কর<vblex><prft><p1>$^.<sent>$
+[/bFuadZrtmewj]
+[bSKRcC5UkT4w#0] ^prpers<prn><p3><infml><nn><mf><sg><nom>$ ^@can<vaux><pres>$ ^কর<vblex><inf><PD>$^.<sent>$
+[/bSKRcC5UkT4w]
+[bZKjbM7AuL8S#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কাজ কর<vblex><pres><cnt><p3><infml>$^.<sent>$
+[/bZKjbM7AuL8S]
+[cHOCU1NQ-Xv4#0] ^prpers<prn><p3><infml><aa><mf><pl><nom>$ ^না<adv>$ ^ধনী<adj><mf>$^.<sent>$
+[/cHOCU1NQ-Xv4]
+[cYvk6AV5AYyy#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^আছ<vblex><pres><smpl><PD>$ ^না<adv>$ ^কাজ কর<vblex><TD><PD>$^.<sent>$
+[/cYvk6AV5AYyy]
+[c_dzOqYHf7uJ#0] ^@Will<vaux><inf>$ ^prpers<prn><p1><aa><mf><sg><nom>$ ^হ<vblex><inf>$ ^কর্মরত<adj><mf>$^?<sent>$
+[/c_dzOqYHf7uJ]
+[ciEwhu1YTBGB#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/ciEwhu1YTBGB]
+[ck_n0WnmUYVa#0] ^prpers<prn><p3><infml><nn><mf><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^কর<vblex><inf><PD>$^.<sent>$
+[/ck_n0WnmUYVa]
+[d-WLue-IyChD#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কোথায়<adv>$ ^আছ<vblex><pres><smpl><p2><fam>$ ^আজকে<adv>$^?<sent>$
+[/d-WLue-IyChD]
+[dKxjRe4mHdYP#0] ^আছ<vblex><pres><smpl><PD><vpos>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^তোমার<det><gen>$ ^কাজ<n><nt><nn><sg><obj>$ ^শেষ কর<vblex><past><smpl><p2><fam>$ ^?<sent>$
+[/dKxjRe4mHdYP]
+[dWBQGifEbMrq#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^কাজ কর<vblex><pres><smpl><p1>$^?<sent>$
+[/dWBQGifEbMrq]
+[dXtyKh9ALg0j#0] ^prpers<prn><p3><infml><aa><mf><sg><gen>$ ^এক<num><nn>$ ^বই<n><nt><nn><sg><obj>$ ^আছ<vblex><past><smpl><p3><infml>$^.<sent>$
+[/dXtyKh9ALg0j]
+[d_HhzxZaz5Xk#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/d_HhzxZaz5Xk]
+[e4CizyhCqzl1#0] ^সাত<num><nn>$ ^দিন<n><mf><nn><sg><nom>$ ^তৈরি কর<vblex><inf>$ ^এক<num><nn>$ ^সপ্তাহ<n><mf><nn><sg><nom>$^.<sent>$
+[/e4CizyhCqzl1]
+[e8wbeFhKupnG#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^সেখানে<adv>$^ যা<vblex><ft><smpl><p1>$^.<sent>$
+[/e8wbeFhKupnG]
+[eDe-gYhcUpuX#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কর<vblex><inf>$^.<sent>$
+[/eDe-gYhcUpuX]
+[eiXtLwXZDoKa#0] ^কি<det><itg><sp>$ ^না<adv>$ ^@spit<n><nom><p3>$ ^এখানে<adv>$^.<sent>$
+[/eiXtLwXZDoKa]
+[fLViczg9zmeM#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^এক<num><hu>$ ^ভালো<adj><mf>$ ^ছাত্র<n><mf><hu><sg><nom>$ ^আছ<vblex><plprft><p3><infml>$^.<sent>$
+[/fLViczg9zmeM]
+[fT-oWRgjA-_f#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^বল<vblex><past><smpl><p2><fam>$ ^prpers<prn><p1><aa><mf><sg><nom>$^?<sent>$
+[/fT-oWRgjA-_f]
+[fYq2jN_CX9Pa#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^আছ<vblex><pres><smpl><PD>$ ^*writting$ ^এক<num><nn>$ ^হরফ<n><nt><nn><sg><nom>$ ^বরাবর<post>$ ^আমার<det><gen>$ ^মিত্র<n><mf><hu><sg><nom>$^.<sent>$
+[/fYq2jN_CX9Pa]
+[f_dPlw5w3g08#0] ^এই<det><dem>$ ^মেশিন<n><mf><nn><sg><nom>$ ^@should<vaux><inf>$ ^হ<vblex><inf>$ ^কর্মরত<adj><mf>$^.<sent>$
+[/f_dPlw5w3g08]
+[fxKd1r9XZ_wH#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কর<vblex><ft><cnt><p1>$^.<sent>$
+[/fxKd1r9XZ_wH]
+[g2jxY0ptIJet#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@have<vbhaver><plprft>$ ^না<adv>$ ^বল<vblex><past><PD>$^.<sent>$
+[/g2jxY0ptIJet]
+[gDXPdI-Sm6yd#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><cnt><p1>$^.<sent>$
+[/gDXPdI-Sm6yd]
+[gElYFvfyIVea#0] ^@Who<prn><itg><m><sp>$ ^আছ<vblex><pres><smpl><PD>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$^?<sent>$
+[/gElYFvfyIVea]
+[gQC5T38GVXXI#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^এই<det><dem>$ ^বই<n><nt><nn><sg><obj>$ ^আছ<vblex><pres><smpl><p1>$^.<sent>$
+[/gQC5T38GVXXI]
+[gaVa6qSRMMVr#0] ^@Which<prn><itg><m><sp>$ ^@of<pr>$ ^ছেলে<n><mf><hu><pl><nom><>$ ^আছ<vblex><pres><smpl><PD>$ ^*wicked$ ^?<sent>$
+[/gaVa6qSRMMVr]
+[gaxfEN9Fo2Fj#0] ^*Ler$ ^prpers<prn><p1><aa><mf><pl><nom>$ ^@harmonium<n><obj><def><p3>$ ^@on<pr>$ ^খেল<vblex><pres><smpl><p1>$^.<sent>$
+[/gaxfEN9Fo2Fj]
+[ghuANFMIg7EU#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/ghuANFMIg7EU]
+[gqEToY4RTNKE#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><smpl><p2><fam>$^.<sent>$
+[/gqEToY4RTNKE]
+[h5ggTHd07YuJ#0] ^prpers<prn><p3><infml><nn><mf><sg><nom>$ ^@might<vaux><inf>$ ^কর<vblex><inf><PD>$^.<sent>$
+[/h5ggTHd07YuJ]
+[hDs1ZiWNeHxh#0] ^মেয়ে<n><f><hu><sg><nom><def>$ ^@burst<vblex><pp>$ ^@into<pr>$ ^@tear<n><nom><p3>$^.<sent>$
+[/hDs1ZiWNeHxh]
+[hFKbFXn4zeui#0] ^prpers<prn><p3><infml><nn><mf><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^কর<vblex><inf><PD>$^.<sent>$
+[/hFKbFXn4zeui]
+[hGbTqiJHdEFY#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^জান<vblex><pres><smpl><p1>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$^?<sent>$
+[/hGbTqiJHdEFY]
+[hH4zppm0UP0r#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^বল<vblex><pres><p1>$^.<sent>$
+[/hH4zppm0UP0r]
+[hJweFvsCrrSM#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^*heartily$ ^@congratulate<vblex><inf>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@on<pr>$ ^তোমার<det><gen>$ ^সফলতা<n><nt><nn><sg><nom>$^.<sent>$
+[/hJweFvsCrrSM]
+[hNjXQl2ev9UO#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^লেখ<vblex><past><smpl><p2><fam>$ ^এক<num>$ ^পরের<adj><mf>$ ^বরাবর<post>$ ^তোমার<det><gen>$ ^বাবা<n><m><hu><sg><nom>$ ^?<sent>$
+[/hNjXQl2ev9UO]
+[hVwUMoF3DoPl#0] ^তাদের<det><gen>$ ^ঘর<n><nt><nn><sg><nom>$
+[/hVwUMoF3DoPl]
+[hmR5gj-nLTjd#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^আছ<vblex><pres><smpl><PD>$ ^না<adv>$ ^@at<pr>$ ^হোম<n><nt><nn><sg><nom>$^.<sent>$
+[/hmR5gj-nLTjd]
+[hoDZyoWxs68E#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/hoDZyoWxs68E]
+[i8pgw2256GG6#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^নিজে<prn><ref><mf><sg><obj>$ ^দেখ<vblex><past><smpl><p3><infml>$
+[/i8pgw2256GG6]
+[iApdDe_DXdFG#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@may<vaux><inf>$ ^আছ<vblex><inf>$ ^এই<det><dem>$ ^বই<n><nt><nn><sg><nom>$^.<sent>$
+[/iApdDe_DXdFG]
+[i_dG5YFTr1B8#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কাজ কর<vblex><plprft><p2><fam>$^.<sent>$
+[/i_dG5YFTr1B8]
+[if0c1qt10rQH#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^কাজ কর<vblex><past><smpl><p1>$^?<sent>$
+[/if0c1qt10rQH]
+[irl9c6jblNpq#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^এক<num><hu>$ ^ভালো<adj><mf>$ ^ছাত্র<n><mf><hu><sg><nom>$ ^আছ<vblex><plprft><p2><fam>$^.<sent>$
+[/irl9c6jblNpq]
+[irnYW0mFy-fr#0] ^এক<num><hu>$ ^সৎ<adj><mf>$ ^মানুষ<n><mf><hu><sg><nom>$ ^সর্বত্র<adv>$ ^সম্মান কর<vblex><pres><p3><infml>$^.<sent>$
+[/irnYW0mFy-fr]
+[irqKJCdA_jMw#0] ^আমার<det><gen>$ ^বই<n><nt><nn><sg><nom>$
+[/irqKJCdA_jMw]
+[iryNZedqXLM0#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@may<vaux><inf>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/iryNZedqXLM0]
+[j7Pf53Vzd0xX#0] ^কি<det><itg><sp>$ ^আছ<vblex><pres><smpl><PD>$ ^আমার<det><gen>$ ^নাম<n><mf><nn><sg><nom>$^?<sent>$
+[/j7Pf53Vzd0xX]
+[jF38mtzzHd0Z#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@will<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/jF38mtzzHd0Z]
+[jN96y_vZDU3q#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^আছ<vblex><plprft><PD>$ ^বল<vblex><ger><PD>$^.<sent>$
+[/jN96y_vZDU3q]
+[jV8TSvaYz2uI#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কাজ কর<vblex><pres><smpl><p1>$^.<sent>$
+[/jV8TSvaYz2uI]
+[jX1mc5H5V2Iz#0] ^কেন<adv>$ ^@will<vaux><inf>$ ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কাজ কর<vblex><pres><smpl><p3><infml>$^?<sent>$
+[/jX1mc5H5V2Iz]
+[jfIPSkdIf1Tp#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@have<vbhaver><plprft>$ ^না<adv>$ ^কাজ কর<vblex><pp>$^.<sent>$
+[/jfIPSkdIf1Tp]
+[jxxpG1C8WrK0#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@can<vaux><pres>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/jxxpG1C8WrK0]
+[k8i8JJ38FN65#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^অক্ষর<n><nt><nn><sg><gen>$ ^@of<pr>$ ^এক<num><hu>$ ^মানুষ<n><mf><hu><sg><nom>$^.<sent>$
+[/k8i8JJ38FN65]
+[k9hONmcwgPWb#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কেমন<adv>$ ^আছ<vblex><plprft><p2><fam>$^?<sent>$
+[/k9hONmcwgPWb]
+[kCA81CmGXwM3#0] ^কেমন<adv>$ ^@will<vaux><inf>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^নিয়ন্ত্রণ কর<vblex><pres><smpl><p2><fam>$ ^এই<det><dem>$ ^*kingdom$^?<sent>$
+[/kCA81CmGXwM3]
+[kDO-C7DodeQG#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@can<vaux><past>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/kDO-C7DodeQG]
+[kHm9-U9Qyyg9#0] ^@What<prn><itg><m><sp>$ ^হ<vblex><ft><smpl><PD>$ ^তোমার<det><gen>$ ^নাম<n><mf><nn><sg><nom>$^?<sent>$
+[/kHm9-U9Qyyg9]
+[kI-sjxPXdL24#0] ^@Who<prn><itg><m><sp>$ ^মেরামত কর<vblex><past><smpl><PD>$ ^এই<det><dem>$ ^গাড়ি<n><mf><nn><sg><nom>$^?<sent>$
+[/kI-sjxPXdL24]
+[karl2EgwwsmP#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কাজ কর<vblex><pres><cnt><p1>$^.<sent>$
+[/karl2EgwwsmP]
+[kbepR71vH5mg#0] ^@Can<vaux><past>$ ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^যোগ<n><nt><nn><sg><obj><def>$ ^@work<vblex><pres><smpl><p3><infml># out$ ^?<sent>$
+[/kbepR71vH5mg]
+[ktQOKePnTkWC#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কাজ কর<vblex><pres><smpl><p1>$^.<sent>$
+[/ktQOKePnTkWC]
+[kvKLJY8H6wkx#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@have<vbhaver><prft><p3><sg>$ ^না<adv>$ ^কাজ কর<vblex><pp>$^.<sent>$
+[/kvKLJY8H6wkx]
+[lEzDILTir3Z3#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^prpers<prn><p1><aa><mf><pl><obj>$ ^দেখ<vblex><pres><smpl><p1>$
+[/lEzDILTir3Z3]
+[lLckkSMcQtef#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^নিজে<prn><ref><mf><sg><obj>$ ^দেখ<vblex><past><smpl><p3><infml>$
+[/lLckkSMcQtef]
+[lMuwO1AeBV33#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^আছ<vblex><plprft><PD>$ ^না<adv>$ ^বল<vblex><ger><PD>$^.<sent>$
+[/lMuwO1AeBV33]
+[lOVk-g90R4dt#0] ^@Which<det><itg><sp>$ ^খাবার<n><nt><nn><sg><nom>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^পছন্দ কর<vblex><pres><smpl><p2><fam>$^?<sent>$
+[/lOVk-g90R4dt]
+[lVGT866EiwhZ#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কাজ কর<vblex><ft><smpl><p3><infml>$^.<sent>$
+[/lVGT866EiwhZ]
+[m1PIeJWOwiS6#0] ^আছ<vblex><pres><smpl><PD><vpos>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><cnt><p2><fam>$^?<sent>$
+[/m1PIeJWOwiS6]
+[m1pTtWHyZVUy#0] ^@What<prn><itg><m><sp>$ ^হ<vblex><ft><smpl><PD>$ ^আমার<det><gen>$ ^নাম<n><mf><nn><sg><nom>$^?<sent>$
+[/m1pTtWHyZVUy]
+[mCqwpxhNIaar#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/mCqwpxhNIaar]
+[mStUINDQ6vFj#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@have<vbhaver><prft>$ ^না<adv>$ ^কাজ কর<vblex><pp>$^.<sent>$
+[/mStUINDQ6vFj]
+[mWux9AqlpZgu#0] ^@refugee<n><nom><><p3>$ ^পা<vblex><past><smpl><p3><infml>$ ^@some<det><qnt><sp>$ ^খাবার<n><nt><nn><sg><nom>$ ^@after$ ^prpers<prn><p3><infml><aa><mf><pl><nom>$ ^@have<vbhaver><plprft>$ ^*fasted$ ^@about<pr>$ ^এক<num><nn>$ ^সপ্তাহ<n><mf><nn><sg><nom>$^.<sent>$
+[/mWux9AqlpZgu]
+[mXvoSgZM2E4w#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@can<vaux><pres>$ ^না<adv>$ ^আছ<vblex><inf>$ ^এই<det><dem>$ ^বই<n><nt><nn><sg><nom>$^.<sent>$
+[/mXvoSgZM2E4w]
+[mY6jYQs7Bj9e#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^সেখানে<adv>$ ^যা<vblex><plprft><p1>$ ^আগে<adv>$ ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^আস<vblex><past><smpl><p3><infml>$^.<sent>$
+[/mY6jYQs7Bj9e]
+[mceed76CKjmr#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/mceed76CKjmr]
+[me27YLrevgns#0] ^তোমার<det><gen>$ ^ঘর<n><nt><nn><sg><nom>$
+[/me27YLrevgns]
+[me5-zNl4qAYa#0] ^prpers<prn><p1><aa><mf><sg><gen>$ ^এক<num><nn>$ ^বই<n><nt><nn><sg><obj>$ ^আছ<vblex><past><smpl><p3><infml>$^.<sent>$
+[/me5-zNl4qAYa]
+[n2Gwf6asYHwY#0] ^@Who<prn><itg><m><sp>$ ^আছ<vblex><pres><smpl><PD>$ ^@that<cnjsub>$ ^মানুষ<n><mf><hu><sg><nom>$ ^?<sent>$
+[/n2Gwf6asYHwY]
+[nQdbQ6PrW8SV#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^prpers<prn><p3><infml><nn><mf><sg><obj>$ ^দেখ<vblex><pres><smpl><p1>$
+[/nQdbQ6PrW8SV]
+[nbE--huGKRkH#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^চোর<n><mf><hu><sg><obj><def>$ ^@chase<vblex><past><smpl><p1>$^.<sent>$
+[/nbE--huGKRkH]
+[nl79tJf0ta5b#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@have<vbhaver><plprft>$ ^না<adv>$ ^কাজ কর<vblex><past><cnt><PD>$^.<sent>$
+[/nl79tJf0ta5b]
+[nnmjW9llM9jz#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^prpers<prn><p3><infml><aa><mf><sg><obj>$ ^দেখ<vblex><ft><smpl><p1>$ ^আগামীকাল<adv>$^.<sent>$
+[/nnmjW9llM9jz]
+[o0lzW-L8fVrm#0] ^আছ<vblex><pres><smpl><PD><vpos>$ ^prpers<prn><p1><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><cnt><p1>$^?<sent>$
+[/o0lzW-L8fVrm]
+[o43ERFQGSi_p#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@can<vaux><past>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/o43ERFQGSi_p]
+[oCWBmK-yH3Nw#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@can<vaux><past>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/oCWBmK-yH3Nw]
+[oGDwNhjI1bcF#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@have<vbhaver><prft>$ ^না<adv>$ ^কাজ কর<vblex><past><cnt><PD>$^.<sent>$
+[/oGDwNhjI1bcF]
+[oHaU1_sCjXId#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@have<vbhaver><plprft>$ ^না<adv>$ ^কাজ কর<vblex><pp>$^.<sent>$
+[/oHaU1_sCjXId]
+[oPiDKESHqqS8#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@might<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/oPiDKESHqqS8]
+[oio3XcCPS8EB#0] ^@How$ ^খবর<n><nt><nn><sg><nom><def>$ ^@far<adv>$ ^আছ<vblex><pres><smpl><p3><infml>$ ^সত্যি<adj><mf>$ ^?<sent>$
+[/oio3XcCPS8EB]
+[orIrnI_biUkK#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@will<vaux><inf>$ ^না<adv>$ ^হ<vblex><inf>$ ^হওয়া<n><mf><nn><sg><nom>$ ^বল<vblex><past><smpl><p3><infml>$^.<sent>$
+[/orIrnI_biUkK]
+[ovcxiTkHoZKi#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@might<vaux><inf>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/ovcxiTkHoZKi]
+[pNFk9qlL7fNb#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^prpers<prn><p1><aa><mf><sg><obj>$ ^@watch<vblex><past><cnt><p3><infml>$^.<sent>$
+[/pNFk9qlL7fNb]
+[pRGjR_RklEed#0] ^prpers<prn><p3><infml><nn><mf><sg><nom>$ ^@all day long<adv>$ ^@rain<vblex><pres><cnt><p3><infml>$^.<sent>$
+[/pRGjR_RklEed]
+[p_6Z1KuOs44Z#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@might<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/p_6Z1KuOs44Z]
+[pg8bOiVCaFPc#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^prpers<prn><p3><infml><aa><mf><sg><obj>$ ^সাবধান কর<vblex><past><smpl><p1>$ ^দুবার<adv>$^.<sent>$
+[/pg8bOiVCaFPc]
+[pphKiqc7AT8x#0] ^যা<vblex><pres><smpl><PD>$ ^বরাবর<post>$ ^বাজার<n><mf><nn><sg><nom>$^.<sent>$
+[/pphKiqc7AT8x]
+[prf3mKXt4oQR#0] ^তারকা<n><mf><el><sg><nom><def>$ ^আকাশ<n><nt><nn><sg><obj><def>$ ^@in<pr>$ ^@come<vblex><pres><smpl><p3><infml># out$ ^@at night<adv>$^.<sent>$
+[/prf3mKXt4oQR]
+[qAk9uyWEJMHo#0] ^আমার<det><gen>$ ^বিড়াল<n><mf><aa><sg><nom>$
+[/qAk9uyWEJMHo]
+[qIhm6iDjnK5d#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কেন<adv>$ ^আছ<vblex><pres><smpl><p3><infml>$ ^খাবার<n><nt><nn><sg><nom>$ ^রান্না কর<vblex><ger>$^?<sent>$
+[/qIhm6iDjnK5d]
+[qTKaZOoXTpfj#0] ^@How$ ^কর<vblex><pres><smpl><PD>$ ^এই<det><dem>$ ^মেশিন<n><mf><nn><sg><nom>$ ^কাজ<n><nt><nn><sg><nom>$^?<sent>$
+[/qTKaZOoXTpfj]
+[qq_QLqnMm0jd#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@may<vaux><inf>$ ^না<adv>$ ^আছ<vblex><inf>$ ^এই<det><dem>$ ^বই<n><nt><nn><sg><nom>$^.<sent>$
+[/qq_QLqnMm0jd]
+[r-h6ZUmTgsHF#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^হোম<n><nt><nn><sg><obj>$ ^যা<vblex><plprft><p1>$ ^আগে<post>$ ^*i$ ^যা<vblex><past><smpl><PD>$ ^বরাবর<post>$ ^*Dhaka$^.<sent>$
+[/r-h6ZUmTgsHF]
+[r8Xax4g62Dm1#0] ^আমার<det><gen>$ ^ঘড়ি<n><nt><nn><sg><nom>$ ^ডান<adj><mf>$ ^সময়<n><mf><nn><sg><obj>$ ^রাখ<vblex><pres><smpl><p3><infml>$^.<sent>$
+[/r8Xax4g62Dm1]
+[rFqxKpIRL6nA#0] ^prpers<prn><p3><infml><nn><mf><sg><nom>$ ^@can<vaux><past>$ ^কর<vblex><inf><PD>$^.<sent>$
+[/rFqxKpIRL6nA]
+[rH7fuhUfG3e2#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^জান<vblex><pres><smpl><p2><fam>$ ^prpers<prn><p1><aa><mf><sg><nom>$^?<sent>$
+[/rH7fuhUfG3e2]
+[rP2pvap7oI9V#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/rP2pvap7oI9V]
+[rYZu0dUsV7ll#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^আছ<vblex><pres><smpl><PD>$ ^@have<vbhaver><ger>$ ^সমস্যা<n><mf><nn><sg><nom>$ ^@in<pr>$ ^পড়<vblex><TD><PD>$ ^এই<det><dem>$ ^বই<n><nt><nn><sg><nom>$^.<sent>$
+[/rYZu0dUsV7ll]
+[ryqMI1QiUxLC#0] ^কি<det><itg><sp>$ ^আছ<vblex><plprft><PD>$ ^prpers<prn><p3><infml><aa><mf><sg><gen>$ ^নাম<n><mf><nn><sg><nom>$^?<sent>$
+[/ryqMI1QiUxLC]
+[s1JBsELNEpjC#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@may<vaux><inf>$ ^না<adv>$ ^আছ<vblex><inf>$ ^এই<det><dem>$ ^বই<n><nt><nn><sg><nom>$^.<sent>$
+[/s1JBsELNEpjC]
+[s8ycx4Q15yNA#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/s8ycx4Q15yNA]
+[sF-zVsJue8_O#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><smpl><p3><infml>$^.<sent>$
+[/sF-zVsJue8_O]
+[sYVEKmnhWfBN#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^হাজির<adj><mf>$ ^আছ<vblex><plprft><p2><fam>$^.<sent>$
+[/sYVEKmnhWfBN]
+[s_seDUk0VuWS#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/s_seDUk0VuWS]
+[skz3D-zz0Un7#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@will<vaux><inf>$ ^না<adv>$ ^হ<vblex><inf>$ ^কর্মরত<adj><mf>$^.<sent>$
+[/skz3D-zz0Un7]
+[swzAWFlKWSS6#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কর্মরত<adj><mf>$ ^হ<vblex><ft><smpl><p3><infml>$^.<sent>$
+[/swzAWFlKWSS6]
+[t7w_Q4GDByuv#0] ^কি<det><itg><sp>$ ^আছ<vblex><pres><smpl><PD>$ ^তোমার<det><gen>$ ^নাম<n><mf><nn><sg><nom>$^?<sent>$
+[/t7w_Q4GDByuv]
+[tHMF80iUC8LW#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^বল<vblex><past><p1>$^.<sent>$
+[/tHMF80iUC8LW]
+[tHNYOLzJQJF2#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^না<adv>$ ^আস<vblex><inf>$ ^এখানে<adv>$^.<sent>$
+[/tHNYOLzJQJF2]
+[tHi2pqeKh1Nr#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><cnt><p3><infml>$^.<sent>$
+[/tHi2pqeKh1Nr]
+[tLWhTKa9rFwc#0] ^@Can<vaux><past>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^স্টেশন<n><nt><nn><sg><obj><def>$ ^বরাবর<post>$ ^যা<vblex><pres><smpl><p2><fam>$ ^@last night<adv>$ ^?<sent>$
+[/tLWhTKa9rFwc]
+[tMVH7oeuJfnO#0] ^@Let<vblex><pp>$ ^prpers<prn><p3><infml><mf><pl><gen>$ ^আছ<vblex><pres><smpl><p3><infml>$ ^তাদের<det><gen>$ ^*dues$^.<sent>$
+[/tMVH7oeuJfnO]
+[tOmeJ4F2Cnj6#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@might<vaux><inf>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/tOmeJ4F2Cnj6]
+[tUFtBP-oHqaY#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@have<vbhaver><prft>$ ^না<adv>$ ^পা<vblex><pp>$ ^এক<num><nn>$ ^হরফ<n><nt><nn><sg><nom>$^.<sent>$
+[/tUFtBP-oHqaY]
+[t_LemPP0Va5O#0] ^@Let<vblex><pp>$ ^তোমার<det><gen>$ ^ভাই<n><m><hu><sg><nom>$ ^এক<num><nn>$ ^বেলা<n><mf><nn><sg><obj>$ ^জন্য<post>$ ^অপেক্ষা কর<vblex><pres><smpl><p3><infml>$^.<sent>$
+[/t_LemPP0Va5O]
+[taO3Mabxnx_D#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/taO3Mabxnx_D]
+[uGElwiXC_ndM#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@may<vaux><inf>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/uGElwiXC_ndM]
+[uPaq3Q9w2-j3#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^আছ<vblex><prft><PD>$ ^বল<vblex><ger><PD>$^.<sent>$
+[/uPaq3Q9w2-j3]
+[ug719pxnlZQl#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^খেল<vblex><pres><smpl><p3><infml>$ ^ফুটবল<n><mf><nn><sg><nom>$ ^?<sent>$
+[/ug719pxnlZQl]
+[uhwOD433B-9f#0] ^@Which<det><itg><sp>$ ^বই<n><nt><nn><sg><nom>$ ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^চা<vblex><pres><smpl><p3><infml>$ ^?<sent>$
+[/uhwOD433B-9f]
+[ut4_J4Yq-_wo#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/ut4_J4Yq-_wo]
+[v1kVehTXPf1g#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/v1kVehTXPf1g]
+[v6EsOtcEIapj#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@glad<adj>$ ^হ<vblex><ft><smpl><p2><fam>$ ^বরাবর<post>$ ^দেখা কর<vblex><inf>$ ^তোমার<det><gen>$ ^মিত্র<n><mf><hu><pl><nom>$^.<sent>$
+[/v6EsOtcEIapj]
+[vCuP53Ii8lMW#0] ^@Whom<rel><an><mf><sp>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^চা<vblex><pres><smpl><p2><fam>$ ^?<sent>$
+[/vCuP53Ii8lMW]
+[vMahZPh4ZS2g#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@can<vaux><past>$ ^কর<vblex><inf>$ ^যোগ<n><nt><nn><sg><nom><def>$^.<sent>$
+[/vMahZPh4ZS2g]
+[vXez0tO4bR0B#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কাজ কর<vblex><prft><p3><infml>$^.<sent>$
+[/vXez0tO4bR0B]
+[vqOTNILIEA5i#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@can<vaux><pres>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/vqOTNILIEA5i]
+[w33-NoyjNVwm#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কাজ কর<vblex><pres><cnt><p2><fam>$^.<sent>$
+[/w33-NoyjNVwm]
+[wBG15-XQJ9Vj#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^বল<vblex><past><p1>$^.<sent>$
+[/wBG15-XQJ9Vj]
+[wEJRMFVI0EAu#0] ^মেয়ে<n><f><hu><sg><nom><def>$ ^পাঁচ<num><nn>$ ^সন<n><nt><nn><sg><nom>$ ^আছ<vblex><plprft><p3><infml>$ ^পুরনো<adj><mf>$^.<sent>$
+[/wEJRMFVI0EAu]
+[wISmLzg_brgA#0] ^prpers<prn><p2><fam><aa><mf><sg><gen>$ ^এক<num><nn>$ ^বই<n><nt><nn><sg><obj>$ ^আছ<vblex><pres><smpl><p3><infml>$^.<sent>$
+[/wISmLzg_brgA]
+[wnIZ5e0pUrY1#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^এক<num><hu>$ ^ভালো<adj><mf>$ ^ছাত্র<n><mf><hu><sg><nom>$^.<sent>$
+[/wnIZ5e0pUrY1]
+[woY5Rcz3mnQn#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^খা<vblex><pres><smpl><p2><fam>$ ^এই<det><dem>$ ^রুটি<n><nt><nn><sg><nom>$^?<sent>$
+[/woY5Rcz3mnQn]
+[wxEMmyq5rsH-#0] ^আমার<det><gen>$ ^মেয়ে<n><f><hu><sg><nom>$
+[/wxEMmyq5rsH-]
+[x5I6UGbPSC1w#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^এক<num><hu>$ ^ভালো<adj><mf>$ ^ছাত্র<n><mf><hu><sg><nom>$^.<sent>$
+[/x5I6UGbPSC1w]
+[x6AaTDY_TxoO#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^চা<n><mf><nn><sg><gen>$ ^@of<pr>$ ^এক<num><nn>$ ^কাপ<n><mf><nn><sg><nom>$ ^গ্রহণ কর<vblex><pres><cnt><p1>$^.<sent>$
+[/x6AaTDY_TxoO]
+[x6sYntdrU-1r#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^কর<vblex><plprft><p1>$^.<sent>$
+[/x6sYntdrU-1r]
+[xCeq43T2nDcn#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কাজ কর<vblex><past><cnt><p2><fam>$^.<sent>$
+[/xCeq43T2nDcn]
+[xMg4YD-qSJ2S#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^খা<vblex><pres><smpl><p3><infml>$ ^এই<det><dem>$ ^রুটি<n><nt><nn><sg><nom>$^?<sent>$
+[/xMg4YD-qSJ2S]
+[xNga61tQxFbk#0] ^@Let<vblex><pp>$ ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@in peace<adv>$ ^মর<vblex><pres><smpl><p3><infml>$^.<sent>$
+[/xNga61tQxFbk]
+[xQD2ebgZ7KES#0] ^@We all<prn><subj><p1><mf><pl>$ ^চালা<vblex><past><smpl><PD>$ ^বরাবর<post>$ ^@playground<n><nom><def><p3>$^.<sent>$
+[/xQD2ebgZ7KES]
+[xbi7E99REGul#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^@may<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/xbi7E99REGul]
+[xemcr-xH7Jiw#0] ^লেখ<vblex><inf>$ ^এক<num><nn>$ ^হরফ<n><nt><nn><sg><nom>$ ^বরাবর<post>$ ^তোমার<det><gen>$ ^মিত্র<n><mf><hu><sg><nom>$^.<sent>$
+[/xemcr-xH7Jiw]
+[xuFxXcBHB5WR#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^@have<vbhaver><prft>$ ^না<adv>$ ^দেখ<vblex><pp>$ ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^তবুও<adv>$^.<sent>$
+[/xuFxXcBHB5WR]
+[xwucU0ModYxd#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@should<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf><PD>$^.<sent>$
+[/xwucU0ModYxd]
+[y8gOQpGaC-wI#0] ^বাবা<n><m><hu><sg><nom>$ ^আছ<vblex><pres><smpl><PD>$ ^@at<pr>$ ^হোম<n><nt><nn><sg><nom>$^.<sent>$
+[/y8gOQpGaC-wI]
+[yCENWqgD96oZ#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^এক<num><hu>$ ^ভালো<adj><mf>$ ^ছাত্র<n><mf><hu><sg><nom>$ ^আছ<vblex><plprft><p2><fam>$^.<sent>$
+[/yCENWqgD96oZ]
+[yH3CTC6dc1JR#0] ^হাজার<n><mf><nn><pl><nom>$ ^@of<pr>$ ^মানুষ<n><mf><hu><pl><nom>$ ^হত্যা কর<vblex><pres><p3><infml>$ ^@in<pr>$ ^@the<det><def><sp>$ ^@last<det><ord><sp>$ ^দারুণ<adj><mf>$ ^যুদ্ধ<n><mf><nn><sg><nom>$^.<sent>$
+[/yH3CTC6dc1JR]
+[yKqE6kc40DI0#0] ^prpers<prn><p1><aa><mf><sg><gen>$ ^এক<num><nn>$ ^বই<n><nt><nn><sg><obj>$ ^আছ<vblex><pres><smpl><p3><infml>$^.<sent>$
+[/yKqE6kc40DI0]
+[ykq4kLoIPaWQ#0] ^prpers<prn><p3><infml><aa><mf><sg><nom>$ ^@will<vaux><inf>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/ykq4kLoIPaWQ]
+[z7FlQcvlu1xN#0] ^prpers<prn><p1><aa><mf><sg><nom>$ ^আস<vblex><past><smpl><p1>$^,<cm>$ ^prpers<prn><p1><aa><mf><sg><nom>$ ^দেখ<vblex><past><smpl><p1>$ ^এবং<cnjcoo>$ ^prpers<prn><p1><aa><mf><sg><nom>$ ^জয় কর<vblex><past><smpl><p1>$^.<sent>$
+[/z7FlQcvlu1xN]
+[zAhNfu8ZoF5P#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^না<adv>$ ^কাজ কর<vblex><inf>$^.<sent>$
+[/zAhNfu8ZoF5P]
+[zJoIO0yR3zuI#0] ^@Can<vaux><pres>$ ^এক<num><hu>$ ^মৃত<adj><mf>$ ^মানুষ<n><mf><hu><sg><nom>$ ^@come# back<vblex><pp>$ ^বরাবর<post>$ ^জীবন<n><nt><nn><sg><nom>$ ^?<sent>$
+[/zJoIO0yR3zuI]
+[zNnfqkOyFmn7#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^কাজ কর<vblex><past><smpl><p2><fam>$^?<sent>$
+[/zNnfqkOyFmn7]
+[zU3d0ta9ixrH#0] ^@How much<det><itg><sg>$ ^টাকা<n><nt><nn><sg><nom>$ ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^কি<det><itg><sp>$ ^আছ<vblex><pres><smpl><p2><fam>$^?<sent>$
+[/zU3d0ta9ixrH]
+[zxQDzLN6JQgP#0] ^কি<det><itg><sp>$ ^আছ<vblex><plprft><PD>$ ^তোমার<det><gen>$ ^নাম<n><mf><nn><sg><nom>$^?<sent>$
+[/zxQDzLN6JQgP]
+[zyGZZhT6OUxd#0] ^prpers<prn><p2><fam><aa><mf><sg><nom>$ ^আছ<vblex><plprft><PD>$ ^না<adv>$ ^কাজ কর<vblex><TD><PD>$^.<sent>$
+[/zyGZZhT6OUxd]

@@ -1,0 +1,213 @@
+I eat rice.
+We eat rice.
+You eat rice.
+He eats rice.
+They eat rice.
+Zaher sleeps.
+I am eating rice.
+We are eating rice.
+You are eating rice.
+He is eating rice.
+They are eating rice.
+Zaher is sleeping.
+I have eaten rice.
+We have eaten rice.
+You have eaten rice.
+He has eaten rice.
+They have eaten rice.
+Zaher has slept.
+I have been sleeping since morning.
+We have been sleeping since morning.
+You have been sleeping since morning.
+He has been sleeping since morning.
+They have been sleeping since morning.
+Zaher has been sleeping since morning.
+I ate rice.
+We ate rice.
+You ate rice.
+He ate rice.
+They ate rice.
+Zaher slept.
+I was eating rice.
+We ate rice.
+You were eating rice.
+He was eating rice.
+They were eating rice.
+Zaher was sleeping.
+I had eaten rice.
+We ate rice.
+You had eaten rice.
+He had eaten rice.
+They had eaten rice.
+Zaher had slept.
+I had been sleeping since morning.
+We had been sleeping since morning.
+You had been sleeping since morning.
+He had been sleeping since morning.
+They had been sleeping since morning.
+Zaher had been sleeping since morning.
+I shall eat rice.
+We will eat rice.
+You will eat rice.
+He will eats rice.
+They will eat rice.
+Zaher will sleep.
+I shall be eating rice.
+We will be eating rice.
+You will be eating rice.
+He will be eating rice.
+They will be eating rice.
+Zaher will be sleeping.
+I shall have eaten rice.
+We will have eaten rice.
+You will have eaten rice.
+He will have eaten rice.
+They will have eaten rice.
+Zaher will have eaten rice.
+I shall have been eating rice.
+We will have been eating rice.
+You will have been eating rice.
+He will have been eating rice.
+Zaher will have been eating rice.
+They will have been eating rice.
+Man.
+Men.
+Bangladesh.
+Bengali.
+Our house.
+My book.
+Their house.
+Your house.
+Your book.
+My cat.
+My cats.
+My daughter.
+My daughters.
+A house.
+The book.
+An engineer.
+Big house.
+A great book.
+Beautiful Bangladesh.
+The beautiful woman.
+A very strong man.
+Playing is good for health.
+Swimming is a good exercise.
+Getting a good job is tough.
+I like reading poetry.
+I have a book.
+We have a book.
+You have a book.
+He has a book.
+They have a book.
+Zaher has a book.
+I do work.
+We do work.
+You do work.
+He does work.
+They do work.
+Zaher does work.
+I did work.
+We did work.
+You did work.
+He did work.
+They did work.
+Zaher did work.
+I am rich.
+We are rich.
+You are rich.
+He is rich.
+They are rich.
+Zaher is rich.
+I was rich.
+We were rich.
+You were rich.
+He was rich.
+They were rich.
+Zaher was rich.
+I shall be rich.
+We will be rich.
+You will be rich.
+He will be rich.
+They will be rich.
+Zaher will be rich.
+I have been rich.
+We have been rich.
+You have been rich.
+He has been rich.
+They have been rich.
+Zaher has been rich.
+I had been rich.
+We had been rich.
+You had been rich.
+He had been rich.
+They had been rich.
+Zaher had been rich.
+How am I?
+How was I?
+How are you?
+How were you?
+How is he?
+How was he?
+Where am I?
+Where was I?
+Where are you?
+Where were you?
+Where is he?
+Where was he?
+Do I work?
+Do we work?
+Do you work?
+Does he work?
+Do they work?
+Does Zaher work?
+Did I work?
+Did we work?
+Did you work?
+Did he work?
+Did they work?
+Did Zaher work?
+Am I working?
+Are we working?
+Are you working?
+Is he working?
+Are they working?
+Is Zaher working?
+Was I working?
+Were we working?
+Were you working?
+Was he working?
+Were they working?
+Was Zaher working?
+Have I worked?
+Have we worked?
+Have you worked?
+Has he worked?
+Has Zaher worked?
+Have they worked?
+Have I been working?
+Have we been working?
+Have you been working?
+Has he been working?
+Has Zaher been working?
+Have they been working?
+Am I rich?
+Are we rich?
+Are you rich?
+Is he rich?
+Are they rich?
+Is Zaher rich?
+Was I rich?
+Were we rich?
+Were you rich?
+Was he rich?
+Were they rich?
+Was Zaher rich?
+I am working slowly.
+We are working slowly.
+You are working slowly.
+He is working slowly.
+They are working slowly.
+Zaher is sleeping deeply.
+The cat is very beautiful.
+A very beautiful cat is dead.

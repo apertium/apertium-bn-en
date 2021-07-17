@@ -1,0 +1,422 @@
+[-56OUeGHhZvO#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_vblex<SV><pres><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/-56OUeGHhZvO]
+[0B89IMPTnqR-#0] ^nom<SN><mf><sg><nom><p3><infml>{^মানুষ<n><2><hu><3><4>$}$^punt<sent>{^.<sent>$}$
+[/0B89IMPTnqR-]
+[0LrUoCZRAx1N#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^vbser_vblex_adv<SV><pres><cnt><PD>{^গভীরভাবে<adv>$ ^ঘুমা<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/0LrUoCZRAx1N]
+[0ue0p37mgB8D#0] ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbger<SVG><TD><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/0ue0p37mgB8D]
+[1ZyKfia12bTq#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^verbcj<SV><past><smpl><PD>{^ঘুমা<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/1ZyKfia12bTq]
+[22e8fBCH3mO6#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbdo_vblex<SV><past><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/22e8fBCH3mO6]
+[2i5d_vl6S79i#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vbser_vblex<SV><pres><cnt><PD>{^ঘুমা<vblex><2><3><4><5>$}$ ^post<POST><post>{^থেকে<post>$}$ ^nom<SN><mf><sg><nom><p3><infml>{^সকাল<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/2i5d_vl6S79i]
+[2whDtejL5B3G#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbhaver_vbser<SVHB><plprft><PD>{^আছ<vblex><2><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/2whDtejL5B3G]
+[36RDrJDdz_S2#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vbser<SVHB><plprft><PD>{^আছ<vblex><2><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/36RDrJDdz_S2]
+[3CIvQflFU3p_#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/3CIvQflFU3p_]
+[3coabVhiaMbM#0] ^det_adj_nom<SN><nt><nn><sg><nom><p3><infml>{^এক<num><nn>$ ^দারুণ<adj><mf>$ ^বই<n><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/3coabVhiaMbM]
+[3qSOgo7j1BlJ#0] ^adj_nom<SN><mf><sg><nom>{^সুন্দর<adj><sint><mf>$ ^বাংলাদেশ<np><top><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/3qSOgo7j1BlJ]
+[3yh9_BQG7Stp#0] ^adv<ADV><adv>{^কেমন<adv>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$^punt<sent>{^?<sent>$}$
+[/3yh9_BQG7Stp]
+[3zG_duMP6IA8#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^ftaux_be<SVF><ft><smpl><PD>{^হ<vblex><2><3><4><5>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/3zG_duMP6IA8]
+[4zHy7WnucFFB#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^ftaux_vbhaver_vblex<SV><ft><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/4zHy7WnucFFB]
+[5XWIkjP2gIaX#0] ^det_nom<SN><f><pl><nom><p3><infml>{^আমার<det><gen>$ ^মেয়ে<n><2><hu><3><4>$}$^punt<sent>{^.<sent>$}$
+[/5XWIkjP2gIaX]
+[6NzzdvutbV_B#0] ^adv<ADV><adv>{^কেমন<adv>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$^punt<sent>{^?<sent>$}$
+[/6NzzdvutbV_B]
+[6dCnwUlkGyA2#0] ^det_nom<SN><mf><pl><nom><p3><infml>{^আমার<det><gen>$ ^বিড়াল<n><2><aa><3><4>$}$^punt<sent>{^.<sent>$}$
+[/6dCnwUlkGyA2]
+[7sX4Aue_Focx#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbser_vblex_adv<SV><pres><cnt><PD>{^আস্তে<adv>$ ^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/7sX4Aue_Focx]
+[8g08ijzOqW6B#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_vblex<SV><past><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/8g08ijzOqW6B]
+[8hdrs4Qqk77Q#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vbser_vblex<SV><pres><cnt><PD>{^ঘুমা<vblex><2><3><4><5>$}$ ^post<POST><post>{^থেকে<post>$}$ ^nom<SN><mf><sg><nom><p3><infml>{^সকাল<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/8hdrs4Qqk77Q]
+[8k_O8rD3JL_-#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vbser<SVHB><prft><PD>{^আছ<vblex><2><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/8k_O8rD3JL_-]
+[9ChSwISCnEho#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbdo_vblex<SV><pres><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/9ChSwISCnEho]
+[9NYakvp4OwwB#0] ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbger<SVG><TD><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/9NYakvp4OwwB]
+[9nVOptCowWxy#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbhaver_vbser_vblex<SV><pres><cnt><PD>{^ঘুমা<vblex><2><3><4><5>$}$ ^post<POST><post>{^থেকে<post>$}$ ^nom<SN><mf><sg><nom><p3><infml>{^সকাল<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/9nVOptCowWxy]
+[Aa0jNkFvqQ6s#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^ftaux_be<SVF><ft><smpl><PD>{^হ<vblex><2><3><4><5>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/Aa0jNkFvqQ6s]
+[AhcxjzH-sNg_#0] ^adv<ADV><adv>{^কোথায়<adv>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$^punt<sent>{^?<sent>$}$
+[/AhcxjzH-sNg_]
+[AjtWbal2YAjK#0] ^det_nom<SN><mf><sg><nom><p3><infml>{^এক<num><hu>$ ^প্রকৌশলী<n><2><hu><3><4>$}$^punt<sent>{^.<sent>$}$
+[/AjtWbal2YAjK]
+[BuniXqSUpSyx#0] ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^verbcj<SV><past><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/BuniXqSUpSyx]
+[Bwxg_RjJ6L8o#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^verbcj<SV><pres><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/Bwxg_RjJ6L8o]
+[CMZD6MyETBHI#0] ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><past><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/CMZD6MyETBHI]
+[CVxBUbIat_wQ#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vaux_vblex<SV><ft><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/CVxBUbIat_wQ]
+[CaOyw4s8cE2B#0] ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^vbser_vblex<SV><past><cnt><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/CaOyw4s8cE2B]
+[CnE3hizVUMA2#0] ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^adj<SN><adj><mf>{^কর্মরত<2><3><4>$}$^punt<sent>{^?<sent>$}$
+[/CnE3hizVUMA2]
+[CrI4YVxccM3E#0] ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^?<sent>$}$
+[/CrI4YVxccM3E]
+[DSCFCFbpfhTU#0] ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbger<SVG><TD><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/DSCFCFbpfhTU]
+[DskCcb6l2-7h#0] ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^?<sent>$}$
+[/DskCcb6l2-7h]
+[EKvpIv39l_Bk#0] ^nom<SN><nt><sg><nom><p3><infml>{^সাঁতার<n><2><nn><3><4>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^det_adj_nom<SN><nt><nn><sg><nom><p3><infml>{^এক<num><nn>$ ^ভালো<adj><mf>$ ^অনুশীলন<n><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/EKvpIv39l_Bk]
+[Ek2YFmtKLJ_X#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbdo_vblex<SV><past><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/Ek2YFmtKLJ_X]
+[EpzPv-sdRBfY#0] ^vbdo<SVD><pres><smpl>{^কি<det><itg><sp>$}$ ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><pres><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/EpzPv-sdRBfY]
+[ErLkgmKY5Xg7#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vbser_vblex<SV><past><cnt><PD>{^ঘুমা<vblex><2><3><4><5>$}$ ^post<POST><post>{^থেকে<post>$}$ ^nom<SN><mf><sg><nom><p3><infml>{^সকাল<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/ErLkgmKY5Xg7]
+[FdmqrcrtFPxm#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^ftaux_be<SVF><ft><smpl><PD>{^হ<vblex><2><3><4><5>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/FdmqrcrtFPxm]
+[FfwzM4LL6Gl_#0] ^det_nom<SN><f><sg><nom><p3><infml>{^আমার<det><gen>$ ^মেয়ে<n><2><hu><3><4>$}$^punt<sent>{^.<sent>$}$
+[/FfwzM4LL6Gl_]
+[Flp41GJjasKr#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbser_vblex<SV><pres><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/Flp41GJjasKr]
+[FypMK8xPCED9#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_vblex<SV><past><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/FypMK8xPCED9]
+[GW_7iXBWRqGI#0] ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^adj<SN><adj><mf>{^কর্মরত<2><3><4>$}$^punt<sent>{^?<sent>$}$
+[/GW_7iXBWRqGI]
+[H1zb-Uzl4qqW#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><past><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/H1zb-Uzl4qqW]
+[HNmpt1RG9le8#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_vblex_adv<SV><pres><cnt><PD>{^আস্তে<adv>$ ^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/HNmpt1RG9le8]
+[Hd95MZGvr2Xp#0] ^det_nom<SN><nt><sg><nom><p3><infml>{^আমার<det><gen>$ ^বই<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/Hd95MZGvr2Xp]
+[HnwLpMvIcAhS#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/HnwLpMvIcAhS]
+[ILiHxr0a_GWr#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^ftaux_vbhaver_vblex<SV><ft><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/ILiHxr0a_GWr]
+[Ib72202HJ44Q#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vblex<SV><plprft><PD>{^খা<vblex><2><3><4>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/Ib72202HJ44Q]
+[IstQqgu_HvvU#0] ^adv<ADV><adv>{^কোথায়<adv>$}$ ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$^punt<sent>{^?<sent>$}$
+[/IstQqgu_HvvU]
+[IsuoedEm37s2#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbdo_vblex<SV><past><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/IsuoedEm37s2]
+[JjNOGMQJ1OaH#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbdo_vblex<SV><past><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/JjNOGMQJ1OaH]
+[KyoPRBuE8aKQ#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbdo_vblex<SV><pres><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/KyoPRBuE8aKQ]
+[M-35htSUDcyf#0] ^nom<SN><mf><pl><nom><p3><infml>{^মানুষ<n><2><hu><3><4>$}$^punt<sent>{^.<sent>$}$
+[/M-35htSUDcyf]
+[MIRQRTbABwD9#0] ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><past><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/MIRQRTbABwD9]
+[Mdrm_d9bmrjq#0] ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbger<SVG><TD><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/Mdrm_d9bmrjq]
+[MxQ9PhMjSceE#0] ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_vblex<SV><past><cnt><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/MxQ9PhMjSceE]
+[NBR41NbLSFy7#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vbser<SVHB><prft><PD>{^আছ<vblex><2><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/NBR41NbLSFy7]
+[NH693pL_uMH-#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^ftaux_vbhaver_vbser_vblex<SV><ft><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/NH693pL_uMH-]
+[NNBzQtV3_nFr#0] ^vbdo<SVD><past><smpl>{^কি<det><itg><sp>$}$ ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><pres><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/NNBzQtV3_nFr]
+[NT_3oJ7jz9GW#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><past><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/NT_3oJ7jz9GW]
+[NWtjD7UGoC_X#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/NWtjD7UGoC_X]
+[NmAjR4e53PAK#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^vbser_vblex<SV><past><cnt><PD>{^ঘুমা<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/NmAjR4e53PAK]
+[Ns8pRp7A_pKC#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^ftaux_vbhaver_vbser_vblex<SV><ft><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/Ns8pRp7A_pKC]
+[OCmU6zRMPrXo#0] ^det_nom<SN><nt><sg><nom><p3><infml>{^আমাদের<det><gen>$ ^ঘর<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/OCmU6zRMPrXo]
+[ODOlCp6rFsZV#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vbser_vblex<SV><past><cnt><PD>{^ঘুমা<vblex><2><3><4><5>$}$ ^post<POST><post>{^থেকে<post>$}$ ^nom<SN><mf><sg><nom><p3><infml>{^সকাল<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/ODOlCp6rFsZV]
+[OHk4YMeyPurP#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_vblex<SV><pres><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/OHk4YMeyPurP]
+[OaEr2MLPZVYS#0] ^vbdo<SVD><past><smpl>{^কি<det><itg><sp>$}$ ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^verbcj<SV><pres><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/OaEr2MLPZVYS]
+[OnomgTK8axCn#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^ftaux_be_vblex<SV><ft><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/OnomgTK8axCn]
+[PKm0mv8GTmMF#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^ftaux_vbhaver_vblex<SV><ft><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/PKm0mv8GTmMF]
+[PLZzCAj-j-Cw#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_vblex_adv<SV><pres><cnt><PD>{^আস্তে<adv>$ ^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/PLZzCAj-j-Cw]
+[PRq3X58AuxGC#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^vbhaver_vbser_vblex<SV><past><cnt><PD>{^ঘুমা<vblex><2><3><4><5>$}$ ^post<POST><post>{^থেকে<post>$}$ ^nom<SN><mf><sg><nom><p3><infml>{^সকাল<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/PRq3X58AuxGC]
+[QOtjfq1ePHKZ#0] ^vbger<SVG><TD><PD>{^খেল<vblex><2><3><4><5>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^adj<SN><adj><mf>{^ভালো<2><3><4>$}$ ^post<POST><post>{^জন্য<post>$}$ ^nom<SN><mf><sg><nom><p3><infml>{^স্বাস্থ্য<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/QOtjfq1ePHKZ]
+[RORJ8GjoLIVw#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbhaver_vbser<SVHB><prft><PD>{^আছ<vblex><2><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/RORJ8GjoLIVw]
+[RXXRmbKCU5YR#0] ^adv<ADV><adv>{^কোথায়<adv>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$^punt<sent>{^?<sent>$}$
+[/RXXRmbKCU5YR]
+[RbHRPwU6m12_#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vaux_vblex<SV><ft><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/RbHRPwU6m12_]
+[S1db-H88QrDo#0] ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^?<sent>$}$
+[/S1db-H88QrDo]
+[S4xz8uO1oiXd#0] ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^?<sent>$}$
+[/S4xz8uO1oiXd]
+[SVPQTvi9vdvf#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^ftaux_be_vblex<SV><ft><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/SVPQTvi9vdvf]
+[SZniTA98oZRG#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbser_vblex_adv<SV><pres><cnt><PD>{^আস্তে<adv>$ ^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/SZniTA98oZRG]
+[SqZv70dwvqV2#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^vbhaver_vblex<SV><plprft><PD>{^ঘুমা<vblex><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/SqZv70dwvqV2]
+[T1QRd77yGepn#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^ftaux_be<SVF><ft><smpl><PD>{^হ<vblex><2><3><4><5>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/T1QRd77yGepn]
+[TGABTxbrRrKZ#0] ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbger<SVG><TD><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/TGABTxbrRrKZ]
+[TwMfs6Zwj4Ky#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/TwMfs6Zwj4Ky]
+[UUmvYDP9WU3B#0] ^det_nom<SN><nt><sg><nom><p3><infml>{^তোমার<det><gen>$ ^ঘর<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/UUmvYDP9WU3B]
+[UXivvJh0J-rM#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^vbdo_vblex<SV><past><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/UXivvJh0J-rM]
+[UeuR_OEM0P31#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^verbcj<SV><pres><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/UeuR_OEM0P31]
+[V9qD1gyLkcVl#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vblex<SV><prft><PD>{^খা<vblex><2><3><4>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/V9qD1gyLkcVl]
+[VQGC81OFeS2M#0] ^vbdo<SVD><pres><smpl>{^কি<det><itg><sp>$}$ ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^verbcj<SV><pres><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/VQGC81OFeS2M]
+[Vk3zis0uDxS6#0] ^vbdo<SVD><pres><smpl>{^কি<det><itg><sp>$}$ ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><pres><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/Vk3zis0uDxS6]
+[VwuQl58I7bri#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^vbhaver_vbser<SVHB><plprft><PD>{^আছ<vblex><2><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/VwuQl58I7bri]
+[W99d6h3fdjUU#0] ^nom<SN><mf><sg><nom><p3><infml>{^বাংলা<np><al><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/W99d6h3fdjUU]
+[WEhVW-4d78O6#0] ^art_nom<SN><nt><sg><nom><def><p3><infml>{^বই<n><2><nn><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/WEhVW-4d78O6]
+[Wq-ZGeR5zfvx#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_vblex<SV><past><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/Wq-ZGeR5zfvx]
+[WsvdX1TkqSzy#0] ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbger<SVG><TD><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/WsvdX1TkqSzy]
+[XD-47ztMDqIR#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vblex<SV><plprft><PD>{^খা<vblex><2><3><4>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/XD-47ztMDqIR]
+[XMMfJk4qYd6P#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^vaux_vblex<SV><ft><smpl><PD>{^ঘুমা<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/XMMfJk4qYd6P]
+[XwvzwgWJPyUE#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/XwvzwgWJPyUE]
+[Xxliq4Xx8Orw#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^det_nom<SN><nt><sg><nom><p3><infml>{^এক<num><nn>$ ^বই<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/Xxliq4Xx8Orw]
+[Y6AQTq3mADN8#0] ^adj_nom<SN><nt><sg><nom>{^বড়<adj><mf>$ ^ঘর<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/Y6AQTq3mADN8]
+[YaSpojwIFRzj#0] ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbser_vblex<SV><past><cnt><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/YaSpojwIFRzj]
+[YgUa1VlKgmYd#0] ^adv<ADV><adv>{^কোথায়<adv>$}$ ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$^punt<sent>{^?<sent>$}$
+[/YgUa1VlKgmYd]
+[ZLEU0lizB353#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vaux_vblex<SV><ft><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/ZLEU0lizB353]
+[ZQ1GTQn0XqVf#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vblex<SV><plprft><PD>{^খা<vblex><2><3><4>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/ZQ1GTQn0XqVf]
+[ZRqNZxva6oDR#0] ^adv<ADV><adv>{^কোথায়<adv>$}$ ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$^punt<sent>{^?<sent>$}$
+[/ZRqNZxva6oDR]
+[Zhzl7ACHN06V#0] ^det_nom<SN><mf><sg><nom><p3><infml>{^আমার<det><gen>$ ^বিড়াল<n><2><aa><3><4>$}$^punt<sent>{^.<sent>$}$
+[/Zhzl7ACHN06V]
+[ZvduO8LwVygX#0] ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^adj<SN><adj><mf>{^কর্মরত<2><3><4>$}$^punt<sent>{^?<sent>$}$
+[/ZvduO8LwVygX]
+[_8uuy8-N4mrw#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/_8uuy8-N4mrw]
+[_OogkWcoDlip#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/_OogkWcoDlip]
+[aBesME8I5qw7#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vaux_vblex<SV><ft><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/aBesME8I5qw7]
+[aT0n2rFqLU6B#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vbser<SVHB><prft><PD>{^আছ<vblex><2><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/aT0n2rFqLU6B]
+[aTu1T6xSY2vQ#0] ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbser_vblex<SV><past><cnt><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/aTu1T6xSY2vQ]
+[aqwqfugbsznj#0] ^vbdo<SVD><pres><smpl>{^কি<det><itg><sp>$}$ ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^কাজ<n><2><nn><3><4>$}$^punt<sent>{^?<sent>$}$
+[/aqwqfugbsznj]
+[bPpMQFBn378w#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^verbcj<SV><past><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/bPpMQFBn378w]
+[cSgpGSI6O3mz#0] ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><past><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/cSgpGSI6O3mz]
+[cYAvsf4nmLN7#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^vbhaver_vbser<SVHB><prft><PD>{^আছ<vblex><2><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/cYAvsf4nmLN7]
+[cdiTN2wqYxbG#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^ftaux_be<SVF><ft><smpl><PD>{^হ<vblex><2><3><4><5>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/cdiTN2wqYxbG]
+[cpBGA83ngXiN#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbhaver_vbser<SVHB><prft><PD>{^আছ<vblex><2><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/cpBGA83ngXiN]
+[dWBQGifEbMrq#0] ^vbdo<SVD><pres><smpl>{^কি<det><itg><sp>$}$ ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><pres><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/dWBQGifEbMrq]
+[eFntdVDSAQW0#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^ftaux_vbhaver_vbser_vblex<SV><ft><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/eFntdVDSAQW0]
+[ebaN9fIWiRsT#0] ^adv<ADV><adv>{^কেমন<adv>$}$ ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$^punt<sent>{^?<sent>$}$
+[/ebaN9fIWiRsT]
+[eci0x95XYD9z#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^vbdo_vblex<SV><pres><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/eci0x95XYD9z]
+[eojv87pXlacZ#0] ^det_nom<SN><nt><sg><nom><p3><infml>{^তাদের<det><gen>$ ^ঘর<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/eojv87pXlacZ]
+[fKmciCQmAhdQ#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^vbhaver_vblex<SV><prft><PD>{^ঘুমা<vblex><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/fKmciCQmAhdQ]
+[fQDeqsZ3RLJR#0] ^adv<ADV><adv>{^কেমন<adv>$}$ ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$^punt<sent>{^?<sent>$}$
+[/fQDeqsZ3RLJR]
+[fczB2wR-Dm8k#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/fczB2wR-Dm8k]
+[g-5JWvVNZk5T#0] ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^?<sent>$}$
+[/g-5JWvVNZk5T]
+[g7IrtuwhESnu#0] ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^verbcj<SV><past><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/g7IrtuwhESnu]
+[gCV3e_cXOHiI#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^vbser_vblex<SV><pres><cnt><PD>{^ঘুমা<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/gCV3e_cXOHiI]
+[h2ybg5ULXHgY#0] ^vbdo<SVD><past><smpl>{^কি<det><itg><sp>$}$ ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^কাজ<n><2><nn><3><4>$}$^punt<sent>{^?<sent>$}$
+[/h2ybg5ULXHgY]
+[i1YkVBAQCZ30#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><pres><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/i1YkVBAQCZ30]
+[i3CTGm3dXoXT#0] ^det_adv_adj_nom<SN><mf><aa><sg><nom><p3><infml>{^এক<num><aa>$ ^খুব<adv>$ ^সুন্দর<adj><sint><mf>$ ^বিড়াল<n><2><3><4><5>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^adj<SN><adj><mf>{^মৃত<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/i3CTGm3dXoXT]
+[i6eJmUp08uuD#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^det_nom<SN><nt><sg><nom><p3><infml>{^এক<num><nn>$ ^বই<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/i6eJmUp08uuD]
+[iN_AnATp5FJw#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vbser_vblex<SV><past><cnt><PD>{^ঘুমা<vblex><2><3><4><5>$}$ ^post<POST><post>{^থেকে<post>$}$ ^nom<SN><mf><sg><nom><p3><infml>{^সকাল<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/iN_AnATp5FJw]
+[iQxfKC7O8HvT#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbhaver_vbser_vblex<SV><pres><cnt><PD>{^ঘুমা<vblex><2><3><4><5>$}$ ^post<POST><post>{^থেকে<post>$}$ ^nom<SN><mf><sg><nom><p3><infml>{^সকাল<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/iQxfKC7O8HvT]
+[if0c1qt10rQH#0] ^vbdo<SVD><past><smpl>{^কি<det><itg><sp>$}$ ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><pres><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/if0c1qt10rQH]
+[iibpYJJXsN4t#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><pres><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/iibpYJJXsN4t]
+[ikQqzkq61VtP#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^det_nom<SN><nt><sg><nom><p3><infml>{^এক<num><nn>$ ^বই<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/ikQqzkq61VtP]
+[j6_KEPYJwkCT#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/j6_KEPYJwkCT]
+[j8MZrymKPNPE#0] ^adv<ADV><adv>{^কোথায়<adv>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$^punt<sent>{^?<sent>$}$
+[/j8MZrymKPNPE]
+[jGWE1cW84VgA#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^ftaux_vbhaver_vbser_vblex<SV><ft><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/jGWE1cW84VgA]
+[jHQdgYwHmLJ1#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vaux_vblex<SV><ft><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/jHQdgYwHmLJ1]
+[jlLeXz2LLBVN#0] ^art_adj_nom<SN><f><sg><nom><def><p3><infml>{^সুন্দর<adj><sint><mf>$ ^নারী<n><2><hu><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/jlLeXz2LLBVN]
+[k9hONmcwgPWb#0] ^adv<ADV><adv>{^কেমন<adv>$}$ ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$^punt<sent>{^?<sent>$}$
+[/k9hONmcwgPWb]
+[kQf5vWM1aeMN#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^ftaux_be_vblex<SV><ft><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/kQf5vWM1aeMN]
+[kY379UfbyKDm#0] ^adv<ADV><adv>{^কেমন<adv>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$^punt<sent>{^?<sent>$}$
+[/kY379UfbyKDm]
+[ktQOKePnTkWC#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbdo_vblex<SV><pres><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/ktQOKePnTkWC]
+[lgwIrU_7SrKI#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^ftaux_be_vblex<SV><ft><cnt><PD>{^ঘুমা<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/lgwIrU_7SrKI]
+[m1PIeJWOwiS6#0] ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_vblex<SV><past><cnt><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/m1PIeJWOwiS6]
+[mGJ0yt2McstG#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbhaver_vblex<SV><prft><PD>{^খা<vblex><2><3><4>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/mGJ0yt2McstG]
+[mTTDWnPpyRhE#0] ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbger<SVG><TD><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/mTTDWnPpyRhE]
+[mmWySNFdCO_F#0] ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^?<sent>$}$
+[/mmWySNFdCO_F]
+[mqS2gz-LwVeC#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^nom<SN><mf><pl><nom><p3><infml>{^ঘুম<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/mqS2gz-LwVeC]
+[n8ez7620A8Ed#0] ^art_nom<SN><mf><sg><nom><def><p3><infml>{^বিড়াল<n><2><aa><3><4><5>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^adv_adj<SN><adj><sint><mf>{^খুব<adv>$ ^সুন্দর<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/n8ez7620A8Ed]
+[nEhM-RHrxDzi#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vblex<SV><prft><PD>{^খা<vblex><2><3><4>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/nEhM-RHrxDzi]
+[nfyxHOP-inWK#0] ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^verbcj<SV><past><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/nfyxHOP-inWK]
+[nghrpp9Nr8vr#0] ^vbger_det_adj_nom<SN><nt><nn><sg><nom><p3><infml>{^এক<num><nn>$ ^ভালো<adj><mf>$ ^কাজ<n><2><3><4><5>$ ^পা<vblex><ger>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^adj<SN><adj><sint><mf>{^কঠিন<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/nghrpp9Nr8vr]
+[nlH1gtFHzZA4#0] ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^?<sent>$}$
+[/nlH1gtFHzZA4]
+[nmWlryfZh1PN#0] ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbger<SVG><TD><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/nmWlryfZh1PN]
+[o0lzW-L8fVrm#0] ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_vblex<SV><past><cnt><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/o0lzW-L8fVrm]
+[o2Ldc87ZV0Go#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^ftaux_be<SVF><ft><smpl><PD>{^হ<vblex><2><3><4><5>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/o2Ldc87ZV0Go]
+[oLyOoNtlB3W1#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbhaver_vbser<SVHB><plprft><PD>{^আছ<vblex><2><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/oLyOoNtlB3W1]
+[oaW50FpPh2Eh#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbhaver_vbser_vblex<SV><past><cnt><PD>{^ঘুমা<vblex><2><3><4><5>$}$ ^post<POST><post>{^থেকে<post>$}$ ^nom<SN><mf><sg><nom><p3><infml>{^সকাল<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/oaW50FpPh2Eh]
+[pU7PeTLxA5MC#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbdo_vblex<SV><pres><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/pU7PeTLxA5MC]
+[prY55TNdcGpX#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^det_nom<SN><nt><sg><nom><p3><infml>{^এক<num><nn>$ ^বই<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/prY55TNdcGpX]
+[q266si6W3-2f#0] ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^?<sent>$}$
+[/q266si6W3-2f]
+[q2i9H9nmm2w8#0] ^det_nom<SN><nt><sg><nom><p3><infml>{^তোমার<det><gen>$ ^বই<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/q2i9H9nmm2w8]
+[q7KTPdGcMCDR#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_vblex<SV><pres><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/q7KTPdGcMCDR]
+[qCXfI0zq1cTx#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/qCXfI0zq1cTx]
+[qFUhdPF7nvAx#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbhaver_vbser_vblex<SV><past><cnt><PD>{^ঘুমা<vblex><2><3><4><5>$}$ ^post<POST><post>{^থেকে<post>$}$ ^nom<SN><mf><sg><nom><p3><infml>{^সকাল<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/qFUhdPF7nvAx]
+[qpsWfIxIuJmv#0] ^nom<SN><mf><sg><nom><p3><infml>{^বাংলাদেশ<np><top><2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/qpsWfIxIuJmv]
+[qsn-Ig1gCX_d#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><past><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/qsn-Ig1gCX_d]
+[rBycPb8iHPeB#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^ftaux_vbhaver_vblex<SV><ft><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/rBycPb8iHPeB]
+[rPfIjQxZf2QL#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbdo_vblex<SV><pres><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/rPfIjQxZf2QL]
+[s3oFDJhjYnQN#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vbser<SVHB><plprft><PD>{^আছ<vblex><2><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/s3oFDJhjYnQN]
+[sdginUEK01AW#0] ^det_adv_adj_nom<SN><mf><hu><sg><nom><p3><infml>{^এক<num><hu>$ ^খুব<adv>$ ^বলিষ্ঠ<adj><sint><mf>$ ^মানুষ<n><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/sdginUEK01AW]
+[txHzjhIw9lyb#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^ftaux_vbhaver_vblex<SV><ft><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/txHzjhIw9lyb]
+[uEbsZBgiws0k#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vblex<SV><prft><PD>{^খা<vblex><2><3><4>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/uEbsZBgiws0k]
+[uZCZXHrUyY2d#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vbser_vblex<SV><pres><cnt><PD>{^ঘুমা<vblex><2><3><4><5>$}$ ^post<POST><post>{^থেকে<post>$}$ ^nom<SN><mf><sg><nom><p3><infml>{^সকাল<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/uZCZXHrUyY2d]
+[uh3iKtJAlGgB#0] ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^vbhaver_vbser_vblex<SV><pres><cnt><PD>{^ঘুমা<vblex><2><3><4><5>$}$ ^post<POST><post>{^থেকে<post>$}$ ^nom<SN><mf><sg><nom><p3><infml>{^সকাল<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/uh3iKtJAlGgB]
+[ulY5MxXdpmhL#0] ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^?<sent>$}$
+[/ulY5MxXdpmhL]
+[v8PVzmL0ZBZw#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^ftaux_vbhaver_vbser_vblex<SV><ft><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/v8PVzmL0ZBZw]
+[vYB8Okp7tFzM#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^verbcj<SV><past><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/vYB8Okp7tFzM]
+[vtle2OkFS71R#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbser_vblex<SV><past><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/vtle2OkFS71R]
+[vuXstfi0FXO7#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^ftaux_be_vblex<SV><ft><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/vuXstfi0FXO7]
+[vuwGhU17KiQz#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbhaver_vblex<SV><plprft><PD>{^খা<vblex><2><3><4>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/vuwGhU17KiQz]
+[w0RsXwijmK4Z#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/w0RsXwijmK4Z]
+[wISmLzg_brgA#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^det_nom<SN><nt><sg><nom><p3><infml>{^এক<num><nn>$ ^বই<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/wISmLzg_brgA]
+[wJvV993Vw_uP#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><pres><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/wJvV993Vw_uP]
+[wOyfEE-LmsVI#0] ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^?<sent>$}$
+[/wOyfEE-LmsVI]
+[wlR3OsmJk80T#0] ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_vblex_adv<SV><pres><cnt><PD>{^আস্তে<adv>$ ^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/wlR3OsmJk80T]
+[wtN0HBgaV1ZF#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^ftaux_vbhaver_vblex<SV><ft><smpl><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/wtN0HBgaV1ZF]
+[xCtY48zELqln#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbser_vblex<SV><pres><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/xCtY48zELqln]
+[xRbhcm96LKJ5#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbhaver_vbser<SVHB><plprft><PD>{^আছ<vblex><2><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/xRbhcm96LKJ5]
+[xaBlPpimc_QD#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbdo_vblex<SV><past><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^.<sent>$}$
+[/xaBlPpimc_QD]
+[xvUokJqMvdgC#0] ^det_nom<SN><nt><sg><nom><p3><infml>{^এক<num><nn>$ ^ঘর<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/xvUokJqMvdgC]
+[xxfJbr5roVyk#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^ftaux_vbhaver_vbser_vblex<SV><ft><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/xxfJbr5roVyk]
+[yKqE6kc40DI0#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><pres><smpl><PD><vpos>{^আছ<vblex><2><3><4><5>$}$ ^det_nom<SN><nt><sg><nom><p3><infml>{^এক<num><nn>$ ^বই<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/yKqE6kc40DI0]
+[yVjB7BeR1AVM#0] ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^?<sent>$}$
+[/yVjB7BeR1AVM]
+[yWRMuuZ4zB00#0] ^vbdo<SVD><past><smpl>{^কি<det><itg><sp>$}$ ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^verbcj<SV><pres><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/yWRMuuZ4zB00]
+[yX9JveK-fgyo#0] ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^vbhaver_vblex<SV><prft><PD>{^খা<vblex><2><3><4>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/yX9JveK-fgyo]
+[ycuFZxmj-_ol#0] ^prnsubj<SN><mf><pl><nom><p1>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^ftaux_be_vblex<SV><ft><cnt><PD>{^খা<vblex><2><3><4><5>$}$ ^nom<SN><nt><sg><nom><p3><infml>{^ভাত<n><2><nn><3><4>$}$^punt<sent>{^.<sent>$}$
+[/ycuFZxmj-_ol]
+[ysWhJQHvGRC9#0] ^prnsubj<SN><mf><sg><nom><p3><infml>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^.<sent>$}$
+[/ysWhJQHvGRC9]
+[yzAOmLlr4Mop#0] ^vbser_past<SVPS><past><PD>{^আছ<vblex><plprft><3><4>$}$ ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^adj<SN><adj><mf>{^ধনী<2><3><4>$}$^punt<sent>{^?<sent>$}$
+[/yzAOmLlr4Mop]
+[zNnfqkOyFmn7#0] ^vbdo<SVD><past><smpl>{^কি<det><itg><sp>$}$ ^prnsubj<SN><mf><sg><nom><p2><fam>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><pres><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/zNnfqkOyFmn7]
+[zU9AF7S8ol_E#0] ^vbdo<SVD><pres><smpl>{^কি<det><itg><sp>$}$ ^prnsubj<SN><mf><pl><nom><p3><infml>{^prpers<prn><5><6><aa><mf><pl><4>$}$ ^verbcj<SV><pres><smpl><PD>{^কাজ কর<vblex><2><3><4><5>$}$^punt<sent>{^?<sent>$}$
+[/zU9AF7S8ol_E]
+[zcRG7zFgPvos#0] ^prnsubj<SN><mf><sg><nom><p1>{^prpers<prn><5><6><aa><mf><sg><4>$}$ ^verbcj<SV><pres><smpl><PD>{^পছন্দ কর<vblex><2><3><4><5>$}$ ^ger_nom<SN><nt><sg><nom><p1>{^কবিতা<n><2><nn><3><4>$ ^পড়<vblex><ger>$}$^punt<sent>{^.<sent>$}$
+[/zcRG7zFgPvos]
+[zhoztkNcbsPt#0] ^vbser_pri<SVPR><pres><PD>{^আছ<vblex><pres><smpl><3><4>$}$ ^nom<SN><m><sg><nom><p3><infml>{^জাহের<np><ant><2><3><4>$}$ ^adj<SN><adj><mf>{^কর্মরত<2><3><4>$}$^punt<sent>{^?<sent>$}$
+[/zhoztkNcbsPt]
